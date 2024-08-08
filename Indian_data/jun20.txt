@@ -1,0 +1,542 @@
+Performance of Private
+Corporate Business Sector:
+2016-17 to Q3:2017-18*
+
+article
+
+16 RBI Bulletin June 2018
+Performance of Private Corporate Business Sector: 2016-17 to Q3:2017-18
+
+NGNF companies. Unaudited balance sheets of these
+companies have also been used to study the risk
+profile and sources and uses of funds by the Indian
+corporates. The rest of the article is organised in five
+sections. Section 2 reviews corporate performance in
+terms of select parameters, analyses the risk profile
+of these corporates, examines the sources and uses of
+funds by the manufacturing sector and presents the
+corporate performance in 2017-18 so far, along with a
+
+perspective of the demand scenario on the basis of use-
+based categorisation. Section 3 analyses the corporate
+
+risk profile with a focus on the performance of heavily
+indebted companies and the intersection of capacity
+utilisation and debt serviceability in investment
+patterns. Section 4 gives a detailed insight into the
+input cost pressures faced by the manufacturing
+companies in the recent period. Section 5 sets out some
+concluding observations. The data used in this article
+are available on the Reserve Bank’s website at https://
+dbie.rbi.org.in/DBIE/dbie.rbi?site=statistics#!2_42.
+2. Corporate Performance
+Sales growth of the select companies improved
+during 2016-17, but mainly due to rise in prices rather
+than a pick up in demand - ‘real’ sales have remained
+stagnant over the last four years (Chart 1). The value
+of production expanded despite the hardening of raw
+
+material prices. A sharp increase in overall expenditure
+compressed/restrained operating profits and nominal
+(GVA) growth. Eventually, it was other/non-operating
+income that shored up corporate margins (Table 1 and
+Table 2).
+Table 1: Performance of Listed Non-Government
+Non-Financial Companies
+Indicator 2015-16 2016-17
+
+Amount
+in
+₹ billion
+Y-o-Y
+Growth
+in
+Per cent
+Amount
+in
+₹ billion
+Y-o-Y
+Growth
+in
+Per cent
+No. of Companies 2,932 3,007
+Sales 29,898 -1.6 31,316 3.1
+Value of Production 29,814 -2.4 31,516 4.0
+Expenditure, of which 25,269 -4.4 26,620 3.8
+Raw Material 11,726 -12.4 12,300 4.8
+Staff Cost 2,905 13.1 3,306 8.7
+Power & fuel 1,051 -7.1 977 -1.2
+Operating Profits 4,545 10.2 4,896 5.4
+Other Income 918 -2.4 1,036 5.9
+EBITDA 5,463 7.9 5,932 5.5
+Depreciation 1,226 5.0 1,375 6.4
+Gross Profits (EBIT) 4,238 8.8 4,557 5.2
+Interest 1,310 5.0 1,421 4.8
+EBT (before NOP) 2,927 10.5 3,136 5.4
+Tax Provision 779 2.2 834 1.5
+Net Profits 1,966 9.3 2,048 11.2
+Note: EBITDA: Earnings before Interest Tax Depreciation and Amortization.
+EBT: Earnings before Tax
+
+article
+
+RBI Bulletin June 2018 17
+Performance of Private Corporate Business Sector: 2016-17 to Q3:2017-18
+
+Among the major industries, iron and steel,
+petroleum products and cement and cement products
+boosted the performance of the manufacturing sector,
+while sales of pharmaceutical companies and the food
+products and beverages industries slumped (Chart 2A,
+Chart 2B and Table 3).
+In the case of the latter though, the contraction
+in sales recorded in 2015-16 bottomed out in 2016-17.
+
+Overall sales of the services (other than IT) sector
+contracted due to the poor performance of real estate
+and wholesale and retail trade companies. Shrinking
+revenue of the telecommunication industry also
+emerged as a major cause of concern. The operating
+(and net) profits of the services (other than IT)
+sector contracted due to significant losses incurred
+by telecommunication companies. In contrast,
+transport and storage services and hospital services
+Table 2 : Important Performance Parameters of Listed Non-Government Non-Financial Companies
+(Per cent)
+
+Period
+
+No. of
+Companies
+Sales Growth
+
+GVA Growth
+
+Expenditure
+Growth
+Operating
+Profit Growth
+Net Profit
+Growth
+Operating
+Profit Margin
+Net Profit
+Margin
+1 2 3 4 5 6 7 8
+2009-10 2,629 11.7 19.2 9.6 26.6 28.8 16.9 9.4
+2010-11 2,763 19.8 13.5 22.1 12.4 15.8 15.6 9.0
+2011-12 2,679 18.5 9.1 20.7 1.7 -16.8 13.5 6.4
+2012-13 2,931 9.1 8.0 9.6 3.5 -2.0 12.9 5.9
+2013-14 2,854 4.7 6.6 4.2 2.3 -5.1 12.8 5.8
+2014-15 2,925 1.4 8.0 0.7 5.3 -0.7 13.6 5.9
+2015-16 2,932 -1.6 9.7 -4.4 10.2 9.3 15.2 6.6
+2016-17 3,007 3.1 6.6 3.8 5.4 11.2 15.6 6.5
+
+article
+
+18 RBI Bulletin June 2018
+Performance of Private Corporate Business Sector: 2016-17 to Q3:2017-18
+
+industries recorded a pick up in sales (Chart 3). The IT
+sector witnessed moderation in sales growth; the sharp
+growth in staff costs in 2015-16 was not sustained.
+The staff costs to sales ratio rose for the IT
+sector and reached its highest level since 2009-10,
+(Chart 4) denting the profitability of the sector. The
+
+net profit margin turned negative for the services
+(other than IT) sector due to the telecommunication
+industry.
+Accretion to reserves and surplus, and recourse
+to trade payables were the major source of funds
+for manufacturing companies. In the previous
+Table 3 : Sector wise Performance Parameters of Listed Non-Government Non-Financial Companies
+(Per cent)
+
+Period
+
+Manufacturing Services (Non-IT) IT
+Sales Growth
+GVA Growth
+Operating Profit
+Growth
+Net Profit
+Growth
+Operating Profit
+Margin
+Net Profit Margin
+Sales Growth
+GVA Growth
+Operating Profit
+Growth
+Net Profit
+Growth
+Operating Profit
+Margin
+Net Profit Margin
+Sales Growth
+GVA Growth
+Operating Profit
+Growth
+Net Profit
+Growth
+Operating Profit
+Margin
+Net Profit Margin
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18
+2009-10 12.9 27.4 33.1 44.2 15.8 8.5 3.6 -9.6 -1.8 -42.5 13.7 4.7 5.6 9.7 18.9 18.0 27.5 21.4
+2010-11 22.4 11.9 11.7 20.0 14.3 8.2 8.5 18.2 17.6 25.3 14.3 5.4 16.9 18.1 13.5 14.4 25.8 19.8
+2011-12 18.7 5.9 -0.1 -22.1 11.9 5.4 15.3 3.5 -3.9 -48.0 12.4 2.1 21.8 24.9 16.1 23.0 24.7 20.1
+2012-13 8.8 6.6 2.7 2.2 11.3 5.3 11.5 10.5 11.0 -36.1 12.8 1.4 14.0 17.5 18.3 8.9 25.4 19.3
+2013-14 4.2 4.0 0.0 -7.1 10.9 4.9 2.6 -4.2 -15.4 -71.7 11.6 1.2 20.4 22.5 29.1 25.7 28.2 21.1
+2014-15 0.4 5.4 3.3 -7.8 11.5 4.5 3.7 23.4 38.1 $ 13.6 2.7 10.7 11.8 6.6 8.1 26.8 21.3
+2015-16 -3.7 7.5 9.6 12.6 13.0 5.3 4.9 8.2 21.9 -16.9 21.0 5.0 11.3 16.3 11.9 14.5 26.6 22.5
+2016-17 4.2 10.6 12.2 28.0 14.1 6.5 -1.5 -2.0 -7.7 -114.5 19.2 -0.9 9.4 8.7 8.0 8.7 25.5 21.0
+Note: The ratio / growth rate for which denominator is negative is not calculated, and is indicated as ‘$’.
+
+article
+
+RBI Bulletin June 2018 19
+Performance of Private Corporate Business Sector: 2016-17 to Q3:2017-18
+
+year, a significant portion of funds were sourced by
+disinvesting from subsidiaries and liquidation of
+inventory (Table 4).
+Manufacturing companies used around 15 per
+cent of funds raised to reduce their long term debt
+obligations, indicating significant deleveraging,
+which also resulted in a sharp decline in fixed
+assets formation. The remaining funds were invested
+in financial assets and inventory accumulation,
+probably to safeguard against rising raw material
+prices.
+2.1. Corporate Performance in 2017-18 so far
+In Q1:2017-18, moderation in sales growth and a
+sharp increase in overall expenditure led to contraction
+in operating profits for the manufacturing sector and
+for the corporate sector as a whole. In sync, nominal
+GVA in manufacturing also contracted in the Q1:2017-
+18. However, due to moderation in input costs and
+recovery from disruptions owing to the rollout of goods
+and services tax (GST), a revival in major performance
+parameters for manufacturing sector was observed in
+Q2:2017-18. Demand conditions in the manufacturing
+sector further picked up in Q3:2017-18 as evidenced
+
+from the sales growth and this improvement was not
+attributable to favourable base effects (Table 5).
+In spite of the transitory shocks imposed by
+demonetisation and GST, there was no evidence
+of de-stocking and liquidation of inventory by the
+listed manufacturing companies. A demand scenario
+analysis from a use-based perspective reveals that
+while GVA growth of the private corporate sector
+turned negative in the first quarter of 2017-18, that
+of consumer durables recorded steady growth. Real
+sales and nominal GVA growth of construction goods
+decelerated after demonetisation, but more prominent
+effects were observed in consumer non-durables in
+which sales and nominal GVA contracted. Lower fixed
+asset investment by manufacturing companies was
+reflected in weak demand of capital goods, resulting
+in continuously deteriorating GVA for companies
+engaged in the sector. The revival in nominal GVA
+growth of the manufacturing sector in Q3:2017-18 was
+supported by steady growth in primary, intermediate,
+construction goods and consumer durables. The
+growth in sales as well as nominal GVA of capital
+goods was in sync with the fixed assets investment of
+the manufacturing sector in H1:2017-18.
+
+article
+
+20 RBI Bulletin June 2018
+Performance of Private Corporate Business Sector: 2016-17 to Q3:2017-18
+
+Table 4: Sources and Uses of Funds: Manufacturing Sector (in per cent)
+Sources of Funds Uses of Funds
+Time period 2015-16 2016-17 Time period 2015-16 2016-17
+By Increase in Liabilities By Increase in Assets
+
+Share Capital 0.5 – Total Non Current Assets 68.8 53.9
+Reserves & Surplus 27.0 47.2 -Fixed Assets (incl. Capital Work in Progress) 42.8 19.8
+Money Received Against Share Warrants – 0.1 -Non Current Investments 11.9 30.5
+Share Application Money Pending Allotment – 0.2 -Deferred Tax Assets 1.5 1.9
+Total Non Current Liabilities 6.7 1.6 -Long Term Loans & Advances – 1.7
+-Long Term Borrowings 1.0 – -Other Non Current Assets 12.6 –
+-Deferred Tax Liabilities 2.6 1.0 Total Current Assets 20.5 27.4
+-Long Term Provisions – 0.7 -Current Investments 0.8 12.2
+-Other Long Term Liabilities 3.0 – -Inventories – 9.8
+Total Current Liabilities 27.0 49.1 -Trade Receivables 4.1 2.8
+-Short Term Borrowings 8.5 10.0 -Cash & Cash Equivalents – 1.8
+-Trade Payables – 18.2 -Other Current Assets 15.7 0.7
+-Short Term Provisions – 1.4 Other Assets 0.8 1.6
+-Other Current Liabilities 18.4 19.5
+Other-Equity & Liabilities – 0.6
+TOTAL 61.2 98.8 TOTAL 90.1 82.8
+
+By Decrease in Assets By Decrease in Liabilities
+
+Total Non Current Assets 16.3 0.4 Share Capital – 1.1
+-Long Term Loans & Advances 16.3 – Money received against Share Warrants 0.1 –
+-Other Non Current Assets – 0.4 Share Application Money Pending Allotment 0.4 –
+Total Current Assets 22.5 0.8 Total Non Current Liabilities 1.3 16.0
+-Inventories 5.0 – -Long Term Borrowings – 14.8
+-Cash & Cash Equivalents 0.9 – -Long Term Provisions 1.3 –
+-Short Term Loans & Advances 16.6 0.8 -Other Long Term Liabilities – 1.3
+Total Current Liabilities 8.0 –
+-Trade Payables 0.2 –
+-Short Term Provisions 7.8 –
+Other-Equity & Liabilities 0.1 –
+TOTAL 38.8 1.2 TOTAL 9.9 17.2
+Grand total 100.0 100.0 Grand Total 100.0 100.0
+Note: Based on 1,780 common manufacturing companies.
+Figures are normalised by total sources and uses of funds. ‘–‘represents nil entry.
+3. Corporate Risk Profile
+Among companies with a leverage ratio of more
+than 200 per cent and an ICR (interest coverage ratio)
+of less than 1 (including companies with negative
+net worth), the textiles and the telecommunication
+corporates appeared fragile and debt at risk rose
+
+significantly in 2016-17 in these industries. The
+share of debt held by the ‘vulnerable’ construction
+companies also remained elevated (Table 6).
+A stark contrast was observed in the performance
+of heavily indebted companies (i.e., those with debt
+equity ratios more than 200 per cent and debt to total
+
+article
+
+RBI Bulletin June 2018 21
+Performance of Private Corporate Business Sector: 2016-17 to Q3:2017-18
+
+Table 5: Performance of Non-Government Non-Financial Companies: Q3:2017-18
+
+(in Per cent)
+Item Q1FY17 Q2FY17 Q3FY17 Q4FY17 Q1FY18 Q2FY18 Q3FY18
+
+All Companies
+
+No. of Companies 2,775 2,702 2,784 2,726 2,744 2,701 2,705
+
+Y-o-Y Growth
+
+Sales 0.1 1.9 2.8 7.2 7.6 7.2 11.3
+Expenditure -1.4 1.3 5.0 9.1 11.0 5.9 10.9
+Operating Profits 9.6 5.5 7.6 2.1 -10.0 5.0 7.2
+GVA 9.3 8.0 7.6 2.3 -2.3 4.4 6.5
+Interest 5.8 0.0 11.4 -1.6 -1.5 8.1 -5.8
+Net Profits 11.2 16.0 24.6 -6.9 -21.2 -23.1 6.0
+
+Ratios
+
+Operating Profit to Sales 17.0 16.6 15.9 14.4 14.0 15.7 15.4
+Net Profits to Sales 7.5 8.7 6.8 4.6 5.5 5.8 6.7
+
+Manufacturing
+
+No. of Companies 1,804 1,775 1,818 1,747 1,759 1,738 1,743
+
+Y-o-Y Growth
+
+Sales -1.0 3.7 4.9 10.2 8.9 9.5 14.0
+Expenditure -2.6 2.9 7.6 11.2 12.4 6.4 12.3
+Operating Profits 12.0 10.4 16.2 14.2 -12.0 11.2 14.0
+GVA 12.0 11.2 13.8 9.2 -5.4 8.3 10.1
+Interest 2.0 -2.3 7.6 -8.0 -3.4 14.3 -1.8
+Net Profits 28.8 27.5 57.5 22.2 -33.6 -4.0 -2.4
+
+Ratios
+
+Operating Profit to Sales 15.2 14.7 14.3 13.2 12.2 14.6 14.4
+Net Profits to Sales 7.2 7.9 6.2 6.0 4.4 6.4 5.7
+
+Services (non-IT)
+
+No. of Companies 493 508 514 498 501 494 485
+
+Y-o-Y Growth
+
+Sales -0.3 -3.5 -4.6 -2.9 4.1 -2.5 1.6
+Expenditure -1.8 -5.7 -3.2 3.4 10.4 2.6 4.4
+Operating Profits 6.1 4.3 -8.9 -25.7 -17.8 -22.7 -11.9
+GVA 7.1 5.3 -4.5 -18.7 -10.1 -14.2 -2.3
+Interest 32.9 11.5 32.1 3.8 2.7 16.9 -7.6
+Net Profits -38.9 -3.7 -17.5 @ -66.6 @ -27.6
+
+Ratios
+
+Operating Profit to Sales 21.7 21.0 19.7 17.7 16.4 15.6 16.5
+Net Profits to Sales 4.1 6.3 4.5 -18.9 1.7 -10.7 3.4
+
+IT
+
+No. of Companies 188 177 187 181 180 175 171
+
+Y-o-Y Growth
+
+Sales 11.2 7.2 7.3 4.8 2.9 4.4 5.3
+Expenditure 11.8 8.2 7.8 4.7 4.2 4.5 5.7
+Operating Profits 10.1 2.2 6.0 4.4 -1.4 4.6 3.9
+GVA 9.6 7.4 6.8 4.2 5.3 4.8 6.2
+Interest -11.0 -31.5 2.2 9.0 -12.1 -0.3 -35.0
+Net Profits 7.5 4.8 9.8 2.2 9.3 5.8 17.4
+
+Ratios
+
+Operating Profit to Sales 25.7 25.8 26.0 24.9 24.7 25.8 25.7
+Net Profits to Sales 20.8 21.8 21.4 20.2 22.4 22.0 24.1
+Note: To compute the growth rates in any period, a common set of companies for the current and previous period is considered.
+The ratio for which denominator is negligible is not calculated and is denoted by ‘@’.
+
+article
+
+22 RBI Bulletin June 2018
+Performance of Private Corporate Business Sector: 2016-17 to Q3:2017-18
+
+assets ratio greater than 50 per cent in 2015-16) in
+the manufacturing vis-a-vis the rest of the sample.
+Although the indebted manufacturing companies
+reduced their debt levels in 2016-17, they performed
+poorly in terms of fixed assets investment (capex),
+debt serviceability (ICR) and profitability (return on
+assets) (Chart 5A).
+On the other hand, there was an increase in debt
+levels of indebted infrastructure companies, resulting
+in worsening of debt serviceability and profitability.
+The issuance of new debt for the infrastructure
+
+companies is mainly determined by the internal rate
+of return (IRR) of the projects undertaken (Chart 5B).
+Listed manufacturing companies tilted their
+investments towards financial assets and away from
+fixed assets in view of the persistently low capacity
+utilisation (CU) and the overall deleveraging witnessed
+in this sector. In this context, this section presents
+an analysis of the investment pattern of these
+companies in 2015-16 and 2016-17 classified according
+to debt serviceability (ICR) and CU. Thus, the NGNF
+listed manufacturing companies are classified into
+
+Table 6 : Debt at Risk – Listed NGNF Companies- Industry wise
+
+Total Debt
+(₹ Billion)
+No of vulnerable
+companies
+Debt at risk
+(₹ Billion)
+Share of debt at
+risk (per cent)
+Total Debt
+(₹ Billion)
+No of vulnerable
+companies
+Debt at risk
+(₹ Billion)
+Share of debt at
+risk (per cent)
+Total Debt
+(₹ Billion)
+No of vulnerable
+companies
+Debt at risk
+(₹ Billion)
+Share of debt at
+risk (per cent)
+Textiles Telecommunication Construction
+No. of Companies 256 11 144
+Period 1 2 3 4 5 6 7 8 9 10 11 12
+2014-15 728 52 187 25.7 782 4 141 18.0 1007 19 289 28.7
+2015-16 824 53 360 43.7 1258 4 174 13.8 1092 25 357 32.7
+2016-17 831 54 457 55.0 1566 5 724 46.2 1086 25 404 37.1
+Note: Total debt is the sum of long term and short term borrowings.
+Debt at risk defined as total debt held by vulnerable companies.
+
+article
+
+RBI Bulletin June 2018 23
+Performance of Private Corporate Business Sector: 2016-17 to Q3:2017-18
+
+three categories of CU (high/medium/low) and two
+categories of debt serviceability (ICR<1 or ICR≥1) in
+the base year 2014-15.
+Distressed companies (with ICR<1 in 2014-15)
+liquidated their investment in both fixed and financial
+assets in 2016-17; among them, companies with
+higher CU preferred to liquidate fixed assets whereas
+companies with low CU liquidated financial assets
+(Chart 6A).
+
+Companies with ICR≥1 in the base year
+i.e., 2014-15 were found to be investing more
+in financial assets than in fixed assets in 2016-17 across
+all CU categories with a stark difference for
+medium CU companies. Companies in the high
+CU category also reduced their investment in fixed
+assets in 2016-17 compared with the previous year
+(Chart 6B).
+
+article
+
+24 RBI Bulletin June 2018
+Performance of Private Corporate Business Sector: 2016-17 to Q3:2017-18
+
+4. Movements in the Cost of Raw Materials for
+Manufacturing Sector
+Cost of raw materials (CRM) of the manufacturing
+sector continued to rise at a fast pace in Q1:2017-18
+after peaking in the previous quarter, denting nominal
+GVA and operating profits of the sector. Input cost
+faced by the manufacturing companies showed no sign
+of easing till Q3:2017-18, in sync with the firming up
+
+of domestic and international industrial raw materials
+(IRM) inflation (Chart 7).
+A decomposition of CRM growth by industry
+reveals that a major portion stemmed from motor
+vehicles, iron and steel, and petroleum products
+industries in Q3:2017-18.
+The CRM growth of industries importing metal
+and crude petroleum for production moved in tandem
+
+article
+
+RBI Bulletin June 2018 25
+Performance of Private Corporate Business Sector: 2016-17 to Q3:2017-18
+
+with international energy and metal index inflation
+(Chart 8A and 8B).
+5. Conclusion
+A turnaround in sales growth of the corporate
+sector took hold in 2016-17 and has extended into
+the current year so far. Nominal GVA growth of
+the manufacturing sector turned negative in the
+Q1:2017-18 due to input cost pressures and it revived
+on account of steady growth of output. While the
+demand for consumer durables and non-durable
+goods was hit by demonetization, sales of consumer
+durables revived after a temporary drop and there
+
+was no sign of recovery for the consumer non-
+durables companies. Low capacity utilisation in the
+
+manufacturing sector led to significant deleveraging
+as well as lower investments in fixed assets, with
+companies preferring investments in financial and
+liquid assets. Deleveraging undertaken by highly
+indebted manufacturing companies should translate
+into better risk profile of this sector in the coming years,
+however, preference of investment channels other
+than fixed assets by the healthy corporates probably
+hints at transaction cost motive and subdued credit
+demand in the economy. The listed manufacturing
+
+companies reduced current assets and increased long
+term investments in H1:2017-18, possibly hinting
+towards a revival in capex cycle. Further revival in
+the demand scenario will be the key for the private
+corporate sector performance in the coming quarters
+as there has been no signs of respite from input cost
+pressures.

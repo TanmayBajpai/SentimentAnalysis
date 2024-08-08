@@ -1,0 +1,488 @@
+Forex Market Operations and
+Liquidity Management*
+
+article
+
+14 RBI Bulletin August 2018
+Forex Market Operations and Liquidity Management
+
+thereby rendering sterilised interventions ineffective.
+Moreover, this risk intensifies as the magnitude of
+sterilisation increases. In this context, capital flows
+management measures (CFMs) could enhance the
+effectiveness of sterilised interventions to some
+extent. For instance, if portfolio investments in both
+government securities and corporate bonds are capped
+(as in India), additional portfolio inflows would not
+materialise even when sterilised intervention widens
+the yield differential.
+This paper presents in detail as to how the RBI’s
+forex market interventions have impacted domestic
+liquidity conditions, and how they have been managed.
+The study is organised into five sections. Section II
+sets out the mechanics of forex market intervention,
+its consequences, and cross-country practices in
+managing the liquidity impact of such intervention
+through alternative instruments. Recent episodes of
+capital flows and their attendant challenges in the
+Indian context are discussed in Section III, while the
+effectiveness of sterilised intervention is empirically
+assessed in Section IV. Concluding observations are
+presented in Section V.
+
+II. Capital Flows and Forex Market Interventions in
+India
+Since the onset of external sector reforms in the
+early 1990s and with the progressive deregulation of
+the capital account, India has experienced episodes
+of surges in capital inflows and sporadic sudden
+stops/reversals. Theoretically, while capital inflows
+are required to finance a sustainable current account
+deficit in an ex ante sense, capital inflows, however,
+have often exceeded the financing requirement,
+driven by favourable interest rate differentials and/
+or more promising growth outlook, leading to an
+overall surplus position in the balance of payments in
+most years (Chart 1). Given the objective of avoiding
+disruptive excess volatility in the exchange rate of the
+rupee, RBI’s intervention through purchases led to an
+accretion in foreign exchange reserves.
+In an integrated global financial system,
+capital inflows pose multiple challenges for overall
+macroeconomic management. While there are
+several available tools – ranging from (i) forex market
+intervention; (ii) fiscal/monetary policy measures;
+(iii) macro-prudential regulations; and (iv) imposition
+
+` billion
+
+Chart 1: External Sector Balance
+
+Current Account Overall Balance
+
+Source: RBI
+-2000
+-1500
+-1000
+-500
+0
+500
+1000
+1500
+2000
+
+Q :2000-01 2
+Q :2000-01 4
+Q :2001-02 2
+Q :2001-02 4
+Q :2002-03 2
+Q :2002-03 4
+Q :2003-04 2
+Q :2003-04 4
+Q :2004-05 2
+Q :2004-05 4
+Q :2005-06 2
+Q :2005-06 4
+Q :2006-07 2
+Q :2006-07 4
+Q :2007-08 2
+Q :2007-08 4
+Q :2008-09 2
+Q :2008-09 4
+Q :2009-10 2
+Q :2009-10 4
+Q :2010-11 2
+Q :2010-11 4
+Q :2011-12 2
+Q :2011-12 4
+Q :2012-13 2
+Q :2012-13 4
+Q :2013-14 2
+Q :2013-14 4
+Q :2014-15 2
+Q :2014-15 4
+Q :2015-16 2
+Q :2015-16 4
+Q :2016-17 2
+Q :2016-17 4
+Q :2017-18 2
+Q :2017-18 4
+
+article
+
+RBI Bulletin August 2018 15
+Forex Market Operations and Liquidity Management
+
+of capital controls – to moderate the impact of
+such inflows, the moot issue is about managing the
+trade-offs while deploying these instruments either
+individually or in some optimal mix. This paper,
+however, solely focusses on forex market intervention
+and its impact on domestic liquidity conditions.
+When a central bank purchases foreign currency,
+its net foreign assets (NFA) increase, resulting in
+expansion of primary liquidity or reserve money (RM)
+(Table 1). In this context, it is important to assess
+whether the increase in RM resulting from an increase
+in NFA is: (a) consistent with the required increase in
+RM during the year, in which case no sterilisation may
+be necessary; (b) higher than the required increase in
+RM, thereby necessitating sterilisation; and (c) less
+than the required increase in RM in which case the
+central bank may have to inject liquidity over and
+above what is already injected through intervention.
+Unsterilised intervention on a continuous
+basis can lead to a surfeit of liquidity with attendant
+implications for inflation, which, in turn, could
+result in hikes in the policy interest rate. Such hikes
+
+may, however, widen the interest rate differential,
+thereby triggering further inflows. Thus, unsterilised
+interventions often defeat the very objective of
+intervention; hence, central banks generally conduct
+sterilisation operations to neutralise the monetary
+impact of its operations in the foreign exchange
+market. Sterilised intervention through open market
+purchase of securities, however, also keeps interest
+rates elevated in the economy, as alluded to earlier.
+There are also limits to intervention operations as
+central banks may be constrained by the availability
+of government securities for sterilisation. As a result,
+several other instruments have been used by most
+central banks with varying degree of effectiveness
+(Table 2).
+Table 1: Drivers of Primary Money Creation in the
+
+Economy
+Assets Liabilities
+Net foreign assets (NFA) Currency (C)
+Net domestic assets (NDA) Required and excess reserves as deposits (D)
+Reserve money = (C+D) = (NFA+NDA)
+Note: Non-monetary liabilities are assumed as zero here for the purpose of
+keeping the analysis simple.
+
+Table 2: Sterilisation Instruments
+
+(Response of 21 central banks, 1-highest score; 3- lowest score)
+
+Instrument
+
+Number of
+central banks
+using the
+instrument
+
+Assessment
+
+Highly Effective Low Cost Beneficial to overall
+market development
+1 2 3 1 2 3 1 2 3
+
+Market -based
+Central bank securities 15 14 1 0 4 7 3 11 4 0
+FX swaps 7 2 4 0 4 2 0 3 3 0
+Government bonds 6 1 3 1 2 1 2 5 0 0
+(Reverse) repos/ uncollateralised
+borrowing and others 6 2 4 0 0 5 0 2 4 0
+Non Market -based
+Reserve requirements 8 3 1 3 4 2 1 0 1 6
+Government deposits 7 4 1 1 3 3 0 3 0 3
+Special deposit facilities 2 0 0 1 1 0 0 0 0 1
+Other (mostly bank deposits) 4 3 1 0 3 1 0 1 2 1
+No sterilisation using monetary instruments 3
+Source: Reproduced from BIS (2013).
+
+article
+
+16 RBI Bulletin August 2018
+Forex Market Operations and Liquidity Management
+
+III. Forex Operations and Liquidity Management in
+India – Recent Episodes
+As emphasised by the Report of the Expert
+Committee to Revise and Strengthen the Monetary
+Policy Framework (Chairman: Dr. Urjit R. Patel), the
+desirable evolution of the base money path (without
+rigid adherence to any base money rule) is a key
+component of the liquidity management strategy
+[Pillar II as distinct from Pillar I, which is about day
+to day liquidity management under the liquidity
+adjustment facility (LAF)]. For instance, increase in NFA
+in 2014-15 was higher than the actual increase in RM
+(consistent with the annual increase in nominal GDP),
+necessitating open market operations (OMO) (sales)
+to absorb excess durable surplus liquidity (Table 3). In
+contrast, in 2013-14 and 2015-16, the actual increase in
+RM was significantly higher than the increase in NFA,
+which necessitated OMO (purchases) by the Reserve
+Bank for injecting durable liquidity. The year 2016-17
+was an exceptional year as the problem of large surplus
+liquidity post-demonetisation was exacerbated by
+the increase in NFA. In 2017-18, while the liquidity
+overhang from demonetisation moderated gradually
+with increasing remonetisation thus taking the system
+level liquidity closer to neutrality, primary durable
+liquidity increased due to forex inflows which was
+partly offset through OMO (sales), consistent with the
+Pillar II approach mentioned above.
+
+It is pertinent to note that forward purchases of
+foreign exchange that are due to mature over the next
+few months can lead to injection of durable liquidity,
+unless rolled over. Thus, while forward forex market
+interventions/rollovers could relax the liquidity
+management challenges, such an approach carries the
+risk of distorting forward rates (with forward rates
+being also influenced by demand-supply conditions at
+the margin, besides interest rate differentials).
+Forex interventions change significantly the
+composition of the RBI’s balance sheet (in terms of the
+sources of expansion in reserve money), which also
+poses challenges. A high share of NFA at any point in
+time and the resultant decline in net domestic assets
+(NDA) can pose collateral constraints to the Reserve
+Bank’s market-based liquidity absorption operations,
+particularly open market sales and reverse repo
+auctions to absorb surplus liquidity. Under conditions
+of persistently large surplus liquidity, this constraint
+could become binding. For instance, the sharp rise
+in the share of foreign assets in total assets in the
+RBI’s balance sheet between 2001 and 2003 (Chart 2)
+necessitated the introduction of Market Stabilisation
+Scheme (MSS) in April 2004.2 Thereafter, the share of
+foreign assets kept increasing, reaching almost 89 per
+cent in 2006 and 2008; however, the Reserve Bank was
+able to effectively sterilise surplus liquidity by issuing
+securities under the MSS along with the cash reserve
+
+2 The MSS was designed to absorb surplus liquidity of an enduring nature through issuance of Treasury Bills and dated Government securities. The proceeds
+were parked in a separate identifiable cash account maintained and operated by the Reserve Bank, which could be appropriated only for the purpose of
+redemption and/or buyback of papers issued under the MSS.
+
+Table 3: Variation in Reserve Money and Main Durable Liquidity Drivers
+
+(Amount in Rs. billion)
+
+Year Partial Income (Nominal GDP)
+Elasticity of Adjusted RM
+
+Change in Reserve Money Net Forex Purchases by RBI Net OMO Purchases(+)/
+Sales (-)
+1 2 3 4 5
+2013-14 1.0 2179 586 523
+2014-15 1.0 1957 3431 -640
+2015-16 1.2 2523 631 533
+2016-17 - -2803 785 1116
+2017-18 2.2 5,182 2,228 -878
+Notes: 1. (-)/(+) in column 4 and column 5 indicates absorption/injection of liquidity, i.e., (-) indicates sales of government securities/forex and (+)
+indicates purchase of government securities/forex.
+2. Absorption/injection through LAF under Pillar I are not taken into account here.
+
+article
+
+RBI Bulletin August 2018 17
+Forex Market Operations and Liquidity Management
+
+ratio (CRR) and OMO sales. This ensured that the
+burden of sterilisation was shared by all stakeholders,
+i.e., (i) the Government (interest cost on MSS);
+(ii) the Reserve Bank (interest cost on reverse repos);
+and (iii) the banking sector (unremunerated reserve
+requirements). Capital outflows in the wake of the
+global financial crisis and large scale OMO purchases
+to meet the normal expansion in RM in the following
+years (up to 2012-13) led to some moderation in
+the share of foreign assets in the total assets of the
+Reserve Bank; however, this ratio has started rising
+in recent years. The Standing Deposit Facility (SDF),
+which has been announced in the Union Budget 2018-
+19, once operationalised, will significantly enhance
+the sterilisation capacity by removing the collateral
+constraint that the Reserve Bank occasionally faced in
+the past.
+IV. Estimating the Effectiveness of Sterilised
+Interventions
+As noted earlier, central banks that intervene
+in the foreign exchange market typically calibrate
+the extent of sterilisation to modulate base money
+expansion in sync with the normal requirements of
+a growing economy and its monetary policy stance. In
+
+the Indian context also, forex market intervention is
+offset to the extent required through changes in net
+domestic assets so as to ensure that the base money
+expansion remains consistent with the growth in
+nominal GDP.
+The extent and effectiveness of sterilisation
+operations undertaken by a central bank are
+empirically measured by computing sterilisation and
+offset coefficients, both varying between 0 and -1. The
+sterilisation coefficient measures the extent by which
+the NDA of a central bank change in response to a
+change in NFA. Typically, while a value of -1 represents
+complete sterilisation, i.e., no impact of surplus capital
+inflows on the monetary base, a value of 0 implies that
+forex intervention is not sterilised at all by the central
+bank.
+As discussed earlier, sterilisation operations
+undertaken by a central bank can widen the interest
+rate differential if such operations are undertaken
+through open market sale of securities, which, in turn,
+could result in higher capital inflows, thereby leading
+to an adverse feedback loop. If interest sensitive
+capital flows are large (or the sensitivity of capital
+flows to widening interest rate differentials is high),
+
+40
+50
+60
+70
+80
+90
+100
+
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+
+Per cent
+
+Chart 2: Share of Foreign Currency Assets in Total Assets
+
+(end-June)
+
+Source: RBI Annual Report (various issues), RBI Weekly Statistical Supplement of July 6 2018.
+Note: Data pertain to balance sheet date (June 30) for all years up to 2017, and June 29 for 2018.
+46.9
+58.9
+70.2
+86.1 84.3
+88.9
+83.8
+88.8
+86.5
+75.0
+70.3
+65.6 63.8
+67.0
+73.9
+71.1 71.7 73.9
+
+article
+
+18 RBI Bulletin August 2018
+Forex Market Operations and Liquidity Management
+
+and if open market sales, as the key instrument of
+sterilisation, harden yields, then the sterilisation
+effort could become ineffective. The offset coefficient
+captures this combined effect, i.e., the extent to which
+a decrease in NDA due to open market sales is offset by
+
+an increase in net foreign assets driven by sterilisation-
+induced higher yields. If sterilisation operations result
+
+in a widening of interest rate differential, the change
+in net domestic assets can be fully offset through a
+change in net foreign assets. In this scenario, a value
+of -1 for the offset coefficient represents the complete
+ineffectiveness of the central bank in sterilising capital
+flows, i.e., complete attenuation of monetary control.
+Thus, an offset coefficient of -1 would tantamount to
+perfect capital mobility, while a value of 0 would imply
+no capital mobility, which is also consistent with the
+impossible trinity, according to which fixed exchange
+rate, perfect capital mobility and independent
+monetary policy are mutually incompatible.
+In the Indian context, several studies have
+estimated the “sterilisation coefficient”, but there
+are very few studies that have estimated the “offset
+coefficient”, notable exceptions being Pattanaik (1997)
+and Ouyang and Rajan (2008). While the former found
+the offset coefficient to be in the range of -0.31 and -0.33,
+the latter estimated it to be between -0.79 and -0.84.
+These findings indicate that the offset coefficient has
+increased in India over time given that the exposure
+of the economy to short-term portfolio debt flows has
+increased gradually through successive increases in FPI
+limits on Government securities, state development
+
+loans (SDLs) and corporate bonds reflecting increasing
+openness of the capital account. Moreover, the yield
+differential has remained significantly favourable for
+India in the post global crisis period because of the
+persistently low interest rates in advanced economies.
+Using monthly data for over a 20-year period
+from July 1997 to October 2017, the sterilisation and
+offset coefficients are estimated by a modified money
+demand function and a modified equation on capital
+flows using the two-stage least squares (2SLS) method
+(Annex). The estimated sterilisation coefficient is
+-1.03 while the offset coefficient is -0.83, which are
+consistent with the findings of Ouyang and Rajan, op.
+cit, (Table 4).
+Conclusion
+Sterilised intervention in India has not only
+ensured that the reserve money growth remains
+consistent with the requirements of the growing
+economy but also that money market rates remain
+aligned with the operating target of the monetary
+policy, no matter how significant and persistent the
+liquidity impact of forex interventions may be. The
+estimated large offset coefficient, however, suggests
+that the impossible trinity poses a challenge to the
+effective conduct of monetary policy. Forex market
+intervention requires a continuous assessment of
+exchange market conditions (in terms of intervention
+preventing volatility), liquidity conditions (arising
+out of forex operations) relative to system wide
+demand for liquidity, G-sec market conditions (in
+
+Table 4: Estimates of Sterilisation Coefficient
+
+Sr. No. Author Time Period Method Estimates
+1 Patnaik (2004) Monthly data (April 1993-December 2003) Error Correction Model (-0.82)
+2 RBI (2004) Monthly data (April 1994-September 2003)
+
+and
+(October 1995-September 2003)
+
+Vector Auto Regression (-0.92)
+and
+(-0.65)
+3 Ouyang and Rajan (2008) Quarterly data (1990:Q1 – 2004:Q4) Two stage least squares (-1.1)
+4 Sen Gupta and Sengupta (2013) Monthly data (January 1990 - August 2010) Ordinary Least Squares (-0.21) to (-0.61)
+Notes: 1. The estimate of the extent to which addition to NFA is sterilised by the central banks is termed offset coefficient (in Sr. No. 1 study).
+2. NDA and NFA variables defined differently in both estimates (in Sr. No. 2 study).
+3. Sterilisation coefficient is estimated for three sub-periods (in Sr. No. 4 study).
+
+article
+
+RBI Bulletin August 2018 19
+Forex Market Operations and Liquidity Management
+
+terms of sensitivity of yields to OMOs) and forward
+market conditions (in terms of forward premia getting
+influenced by forward purchases/sales).
+Many EMEs have successfully managed the
+impossibility trinity by adopting country and
+time-specific suitable mix of sterilisation, exchange
+rate flexibility and CFMs. In the foreseeable future,
+India may have to persevere with the past strategy
+which has stood the test of time, even while further
+strengthening the arsenal for sterilisation.

@@ -1,0 +1,423 @@
+Post-Demonetisation Patterns of
+Deposits with Scheduled
+Commercial Banks: 2016-17 and
+2017-18*
+
+ARTICLE
+
+26 RBI Bulletin December 2018
+Post-Demonetisation Patterns of Deposits with
+Scheduled Commercial Banks: 2016-17 and 2017-18
+
+the period and its frequency was made annual since
+1990. At present, all scheduled commercial banks
+(SCBs), including regional rural banks (RRBs), report
+under BSR-4 which, in effect, is a census.
+This article, which addresses the years 2016-17
+and 2017-18 as its reference period2
+
+, is confronted by a
+large shock to the monetary and financial system with
+spillovers to the real economy. On November 8, 2016
+currency notes of `500 and `1000 denominations
+accounting for 86.9 per cent (RBI, 2017) of the total
+notes in circulation were abruptly withdrawn and
+ceased to be legal tender. As people herded at eligible
+avenues of surrender, a wall of liquidity moved
+through the financial system. As this article goes on
+to show, current and saving deposits flooded into
+the banking system and, although the stock of term
+deposits declined marginally in terms of its share in
+total deposits, there was a sharp depletion in their
+share in incremental deposits. The Reserve Bank’s
+liquidity management operations and financial prices
+were impacted. Payment habits underwent a shift in
+favour of digital modes. Moreover, alterations in saving
+behaviour have been reported: as per preliminary
+estimates, net financial assets of the household
+sector increased in the form of currency, despite an
+increase in their liabilities (RBI, 2018). Over 2017-18,
+the RBI engaged in a war-time effort to remonetise the
+economy by stepping up printing and distribution of
+currency notes and by introducing the denomination
+of `2000. By March 2018, remonetisation was complete
+and although the stock of currency in circulation was
+restored to its pre-demonetisation level, the patterns
+underlying bank deposits were lagged and incomplete
+in their return to normalcy.
+Against this backdrop, the main motivation driving
+this article is to study the impact of demonetisation and
+
+the subsequent rapid remonetisation on the patterns
+of deposit mobilisation by banks by examining the
+composition and ownership of bank deposits over the
+reference years. In doing so, implications for financial
+inclusion are also addressed. The article also captures
+the behaviour of foreign currency non-resident
+(FCNR) deposits in the context of the unwinding of
+special FCNR(B) swaps with the Reserve Bank during
+September-November 2016 and the gradual reversion
+of these deposits to normalcy over 2017-18.
+The rest of the article is organised into three
+sections. Section II discusses the stylised facts about the
+composition and institutional ownership of deposits.
+Section III presents the results of a hierarchical cluster
+analysis, which examines the variability in deposits
+among states/UTs during the period of study. Section
+IV summarises the major findings and concludes the
+article.
+II. The Stylised Evidence
+Bank deposits generally tend to co-move with economic
+activity. Since 2010-11, this association appears to
+have become closer, pointing to the role of branch
+expansion and financial inclusion in formalising
+savings into the banking system (Chart 1). In 2016-17,
+
+Growth in GDP at current market prices
+
+2 Detailed data for March 2017 and March 2018 rounds of BSR-4 survey
+were released on RBI website on December 20, 2017 (weblink:https://rbi.
+org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=42625) and on July 30,
+2018 (weblink:https://rbi.org.in/Scripts/BS_PressReleaseDisplay.
+aspx?prid=44615), respectively.
+
+ARTICLE
+
+RBI Bulletin December 2018 27
+Post-Demonetisation Patterns of Deposits with
+Scheduled Commercial Banks: 2016-17 and 2017-18
+
+however, a distinct deviation from this co-movement
+was observed, when an overwhelming share (66.2 per
+cent) of incremental deposits took the form of savings
+deposits in sharp contrast to the average share of 27.5
+per cent during the 15-year period 2001-2016 (Chart 2).
+Correspondingly, term deposits accounted for
+less than 20 per cent of incremental deposits as
+against an average share of around 63 per cent during
+2001-16. During 2017-18, the growth of savings
+deposits remained robust, indicating a degree of
+hysteresis in depositors’ preferences.
+Notwithstanding the demonetisation-driven
+jump, aggregate deposit growth moderated during
+2016-18 in relation to the pre-demonetisation years.
+This counter-intuitive development needs to be
+viewed in the context of two factors which were
+simultaneously at work. Firstly, in the financial sector
+
+of the economy, there was a sharp reduction in inter-
+bank deposits, reflecting efficient cash management
+
+by banks aided by rapid strides in the real-time
+funds transfer technology commencing from 2013-
+14. Secondly, in the foreign sector, the redemption of
+FCNR(B) swaps – contracted in the defence against the
+taper tantrum – produced a contraction in non-resident
+
+deposits in the second half of 2016-17, which began
+to get recouped in 2017-18 (Table 1). Consequently,
+the share of the financial sector in deposits of SCBs
+declined from 10.0 per cent in March 2013 to 5.9 per
+cent in March 2018.
+An acceleration in deposit growth occurred
+across states/Union Territories (UTs) during
+2016-17, which moderated in 2017-18. Among
+the major contributors of incremental deposits,
+Uttar Pradesh and Gujarat improved their
+rankings in 2016-17 and states like Bihar, Haryana
+and Rajasthan joined the top 10 club, although Bihar
+Table 1: Deposits Growth – Institutional Sectors
+(per cent)
+
+Institutional Sector Compound Annual
+Growth Rate
+
+Annual
+Growth
+2002-09 2009-16 2016-17 2017-18
+I. Government Sector 25.0 12.2 23.4 1.5
+II. Non-Financial Private
+Corporate Sector
+
+37.2 8.9 5.8 4.8
+III. Financial Sector 24.5 9.9 -13.7 14.6
+IV. Household Sector 17.8 14.4 14.1 7.2
+V. Foreign Sector 6.3 23.5 -2.2 12.7
+Total Deposits 20.0 13.6 11.2 6.9
+Source: RBI.
+
+ARTICLE
+
+28 RBI Bulletin December 2018
+Post-Demonetisation Patterns of Deposits with
+Scheduled Commercial Banks: 2016-17 and 2017-18
+
+and Rajasthan could not sustain their positions
+in 2017-18. Most of the north-eastern states also
+recorded high deposit growth during this period. In
+terms of incremental deposits from households,
+Gujarat, Maharashtra and Punjab improved their ranks
+within the top 10 club in 2016-17 but Gujarat and
+Punjab slipped out of the club in the following year
+(Tables A1.1 and A1.2).
+The household3
+
+sector has accounted for 60 per
+cent of deposits with the Indian banking system in
+recent years (Chart 3). The share of the household
+sector increased significantly during 2016-17 and
+stayed at the same level up to March 2018, although
+the growth of its deposits moderated in 2017-18 from
+the demonetisation-induced growth. The household
+sector typically holds more than half of its deposits in
+term deposits and over one-third in savings deposits.
+However, deposit of specified bank notes (SBNs) in
+their savings bank accounts generated a sudden jump
+
+in their share of savings deposits in 2016-17 and 2017-
+18. At 41.7 per cent, the share of savings deposits in
+the total deposits of households reached a new high in
+March 2018 (Table 2). The share of individuals within
+the household sector jumped to a new high on March
+2017 before reducing marginally by March 2018.
+During 2016-17, incremental deposits were
+driven up by individuals (82 per cent), followed by
+Government entities (27 per cent); in the latter, central
+and State Governments had a combined share of 17
+per cent (Chart 4).
+The overall behaviour of households’ bank
+deposits in the recent period has also been affected by
+schemes such as the Pradhan Mantri Jan Dhan Yojana
+Table 2: Composition of Households’ Deposits –
+
+Type of Deposits
+
+(per cent)
+Type of Deposits 2001 2006 2011 2016 2017 2018
+Current 9.0 10.2 8.9 5.4 5.9 5.8
+Savings 30.8 39.0 37.1 36.9 41.1 41.7
+Term 60.3 50.7 54.1 57.7 53.0 52.5
+Total 100.0 100.0 100.0 100.0 100.0 100.0
+of which, Individuals 83.5 80.2 75.4 84.1 86.7 86.6
+Source: RBI.
+
+3 Households consist of individuals [including Hindu undivided families
+(HUF)], trusts, associates, clubs, proprietary and partnership concerns,
+
+educational and religious institutions, self-help groups (SHGs), non-
+Government organisations (NGOs) and other such entities.
+
+ARTICLE
+
+RBI Bulletin December 2018 29
+Post-Demonetisation Patterns of Deposits with
+Scheduled Commercial Banks: 2016-17 and 2017-18
+
+(PMJDY), the Pradhan Mantri Suraksha Bima Yojana
+(PMSBY), the Pradhan Mantri Jeevan Jyoti Bima Yojana
+(PMJJBY) and the Atal Pension Yojana (APY). Bank
+deposits have remained the preferred instrument of
+household savings in financial assets, followed by
+provident and pension funds, and life insurance fund
+(Table A2). In 2017-18, however, there was a marked
+shift, with currency holdings becoming the preferred
+avenue for household saving. While this reflected the
+remonetisation that was underway, it suggests that
+households still prefer cash for transactional needs
+in spite of the after-effects of demonetisation and the
+follow-on remonetisation.
+Growth in households’ deposits was generally the
+lowest for rural branches across population groups till
+2010-11 but became faster than urban/ metropolitan
+areas during 2011-16 (Table 3). In 2016-17, the growth
+
+pattern shifted in favour of metropolitan and semi-
+urban centres, followed by an across the board
+
+moderation in the following year.
+Aided by their wide network of branches, public
+sector banks (PSBs) retained around three-fourth of
+households’ deposits (Table A3). Private sector banks,
+which are the second largest bank group, mobilised
+more deposits than PSBs during 2017-18. During
+
+demonetisation, private sector banks increased their
+share in the deposits of governments, households
+and the financial sector. Public sector banks held over
+80 per cent of the Government sector deposits, but
+a portion of Government sector deposits moved to
+private sector banks in 2016-18 (Chart 5). The growth
+of bank deposits from non-financial private corporate
+sector slackened: incremental deposits stood at `622
+billion and `543 billion, respectively, much lower than
+`1,011 billion and `1,580 billion, respectively, in the
+preceding two years.
+Table 3: Growth in Households’ Deposits –
+
+Population Groups
+
+(per cent)
+
+Population
+Group
+
+Compound Annual
+Growth Rate
+
+Annual
+Growth Rate
+2001-06 2006-11 2011-16 2016-17 2017-18
+Rural 8.8 15.7 17.3 9.5 9.2
+Semi-urban 9.9 18.7 16.5 16.4 8.1
+Urban 14.1 19.5 15.7 5.4 7.9
+Metropolitan 18.8 21.9 11.3 20.2 5.7
+Total 14.0 19.8 14.1 14.1 7.2
+Note: Population group classification for the period 2002-2005 is based on
+Census 1991, from 2006-2016 is based on Census 2001, after which it is
+based on Census 2011.
+Source: RBI.
+
+ARTICLE
+
+30 RBI Bulletin December 2018
+Post-Demonetisation Patterns of Deposits with
+Scheduled Commercial Banks: 2016-17 and 2017-18
+
+Metropolitan areas account for more than half
+of total deposits (Chart 6). Their share increased post
+demonetisation in March 2017, in spite of the large
+redemption of FCNR(B) deposits, which are mainly
+held by them.
+
+With increased emphasis on opening of branches
+in underbanked/ unbanked areas, including rural
+areas, hitherto untapped savings were mobilised
+through bank deposits. Consequently, deposit growth
+across population groups has witnessed convergence
+(Chart 7).
+
+ARTICLE
+
+RBI Bulletin December 2018 31
+Post-Demonetisation Patterns of Deposits with
+Scheduled Commercial Banks: 2016-17 and 2017-18
+
+III. Hierarchical Cluster Analysis (HCA)
+In this section, we analyse the variability in cash
+habits among geographical areas using hierarchical
+cluster analysis (HCA) in order to identify shift in
+patterns of deposits brought about by demonetisation
+which had resulted in a massive transfer of currency
+from the public to banks, with a significant portion
+not withdrawn immediately.
+HCA is a step-wise process in which at each
+step, two (out of n) objects/ clusters with the closest
+similarity based on a selected criterion are clustered
+into one (Everitt, et al., 2011; Hennig, et al., 2015).
+Eventually a hierarchy is built up from individual
+elements by progressively merging clusters. Among the
+
+several criteria identified to measure similarities/ dis-
+similarities between groups of clusters, the centroid
+
+method4
+, which is considered robust, is used here. The
+result of HCA is a binary tree or dendrogram with n-1
+nodes in which branches are cut at a level when the
+jump in levels of two consecutive nodes is large. The
+
+HCA is employed for state-wise deposits (in ` million
+per 100 population) for three periods i.e., end-March
+2016 (before demonetisation), end-March 2017 and
+end-March 2018 (after demonetisation). Incremental
+deposits per 100 population during 2015-16, 2016-17
+and 2017-18 have also been used as a robustness check
+to validate the results. States are grouped into five
+
+hierarchical clusters using the centroid method. BSR-
+4 data have been used for deposits and annual state-
+wise population has been estimated by extrapolating
+
+from the population census of India 2011 by applying
+annual growth rates in population between the 2001
+and 2011 rounds of the census. The resultant clusters
+are sorted in descending order, with cluster-1 having
+the highest range of deposits and the lowest range is
+in cluster-5. Transition of a state/UT from one cluster
+to another shows major improvement / decline.
+Demonetisation brought about major
+improvement in per capita deposits of households of
+seven states/UTs namely Arunachal Pradesh, Dadra and
+Nagar Haveli, Goa, Haryana, Himachal Pradesh, Punjab
+and Uttarakhand (Table A4). This could not, however,
+be sustained in the following year. Incremental
+
+4 In the centroid method, the distance between two clusters is defined as
+the (squared) Euclidean distance between their centroids or means. The
+centroid method was originated by Sokal and Michener (1958).
+
+ARTICLE
+
+32 RBI Bulletin December 2018
+Post-Demonetisation Patterns of Deposits with
+Scheduled Commercial Banks: 2016-17 and 2017-18
+
+per capita deposits of households improved for
+Sikkim and Telangana after demonetisation. The UT
+of Chandigarh jumped from the lowest cluster to
+cluster-2 due to high per capita incremental deposit
+mobilisation during demonetisation; however, it
+fell back to cluster-4 post-demonetisation. National
+Capital Territory of Delhi moved to cluster-3 in the
+post-demonetisation phase from the highest cluster
+earlier. Maharashtra’s position fell during 2016-17 due
+to unwinding of FCNR(B) swap deposits but reverted
+thereafter.
+The majority of States/UTs were in cluster-5 in
+terms of per capita total outstanding deposits during
+the years of study (Table A5). In terms of per capita
+household sector deposits, Chandigarh, NCT of Delhi
+and Goa remained stable, occupying the top two
+clusters. There was a gradual decline in the number of
+States/UTs in the lowest cluster of household deposits.
+To sum up, the results of the HCA indicate
+• a notable reduction in the intensity of cash
+transactions occurred in 9 out of 36 states/
+UTs on account of demonetisation;
+• this turned out to be transient, however,
+as these states/UTs reverted to cash as
+
+the preferred mode of transaction post-
+demonetisation;
+
+• in states like Maharashtra, there were no
+perceptible differences in cash habits pre- and
+post-demonetisation, with the redemption of
+FCNR(B) swap producing a decline in deposits
+unrelated to demonetisation.
+IV. Conclusion
+Shifts in ownership and tenor of deposits
+provide valuable insights into payment habits, saving
+propensities and liquidity preferences. This article has
+the vantage position of studying these patterns under
+
+the impact of a shock – in this case, demonetisation
+– and its backwash. This event appears to have
+produced a permanent shift in deposit behaviour
+with households’ preference shifting to savings
+deposits and away from term deposits. This suggests
+a premium on liquidity induced by the shock, partly
+incentivised by lower rates of returns on term deposits
+and alternative avenues of saving which combine the
+benefits of liquidity and returns. While the withdrawal
+of SBNs caused a shift in payment habits away from
+cash, this has proven to be short-lived and mean
+reversion became evident in 2017-18 itself. Only two
+states show a break from the central tendency, with a
+decline in cash dependency.
+The results presented in this article draw from
+a census. They point to the fact that deposit and
+payment habits are inflexible across most states/ UTs
+in India and tend to return to steady state, even after
+large shocks. This has implications for banks’ deposit
+mobilisation strategies and business models.

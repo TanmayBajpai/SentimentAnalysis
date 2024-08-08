@@ -1,0 +1,100 @@
+7/2021 A time-varying carbon tax to protect the environment while safeguarding the economy
+https://www.ecb.europa.eu/pub/economic-research/resbull/2021/html/ecb.rb210728~224099ec93.en.html 1/4
+28 July 2021 · RESEARCH BULLETIN NO. 86
+A time-varying carbon tax to protect the
+environment while safeguarding the economy
+By , and [ ]
+Climate change is one of the most pressing issues of our time. The challenge for policymakers is that
+climate policies could have a negative impact on the economy in the short term. In this article we discuss
+how this trade-off between fighting climate change and ensuring a stable business cycle affects the
+design of environmental policies. We argue in favour of a time-varying carbon tax that is increased during
+booms and decreased during recessions.
+Market mechanisms do not address climate change
+Climate change is a classic example of a negative externality. Indeed, a fundamental problem is that the
+cost for society of activities that emit greenhouse gases into the atmosphere is not reflected in market
+prices. Emissions cause climate change, a phenomenon that hurts society as a whole, but this social cost
+is typically not taken into account by carbon emitters. Moreover, since the consequences of climate
+change will largely be suffered by future generations, the implementation of climate policies is often
+postponed until later.
+This constitutes a market failure, the source of which is the absence of a market price on emissions.
+Consequently, policies that substitute market mechanisms by putting a price on emissions can address
+the root cause of the problem. In contrast, laissez-faire strategies that rely exclusively on market
+mechanisms to determine prices are not suited to addressing the challenge posed by climate change.
+Asset pricing theory can put a price on emissions
+Putting a price on emissions can be achieved by introducing a carbon tax. This price should represent the
+cost for society caused by greenhouse gas emissions. The main challenge, therefore, is to design a
+carbon tax that reflects the social cost of emissions. In our recent study (Benmir, Jaccard and Vermandel,
+2020), we argue that asset pricing theory can provide useful insights into this question.
+Indeed, the pricing of carbon emissions shares some key similarities with asset pricing. Carbon emissions
+have a long duration in the sense that they remain in the atmosphere for very long periods of time.
+Consequently, the price of carbon not only needs to reflect the current damage caused to the
+environment. The price must also reflect the impact that carbon emitted into the atmosphere will have
+over the entire course of its lifetime. To obtain this value, we need to convert a sum of future costs – in our
+case the costs caused by carbon emissions to society – into a present value. In finance, the tool that
+allows us to convert future flows into a present value is the discount factor. The discount factor reflects the
+weight that agents assign to future outcomes when making decisions today.
+Discounting plays a central role in climate economics. As illustrated by the debate between Professor
+William D. Nordhaus (Nordhaus, 2007) and Professor Nicholas Stern (Stern, 2007), the choice of a
+discount factor has a critical impact on the outcome of cost and benefit analyses. In risk assessment
+studies, the discount factor can for example determine whether extreme policies are immediately needed.
+If a high weight is assigned to short-term costs, the need for adopting measures is less pressing. In
+contrast, immediate action becomes critical if a higher weight is assigned to long-term costs that are
+expected to materialise in a distant future.
+Our approach incorporates recent advances in asset pricing theory into the study of environmental
+policies. Discount factors are a cornerstone of modern finance (e.g. Cochrane, 2011; 2017). Building on
+this knowledge, we introduce a novel discount factor specification that bridges the gap between finance
+and environmental economics. The novelty of our approach is to introduce a link between climate change
+and attitudes towards risk, where the presence of an environmental externality induces time variation in
+risk aversion.[ ]
+Ghassane Benmir Ivan Jaccard Gauthier Vermandel 1
+2
+7/2021 A time-varying carbon tax to protect the environment while safeguarding the economy
+https://www.ecb.europa.eu/pub/economic-research/resbull/2021/html/ecb.rb210728~224099ec93.en.html 2/4
+The optimal policy is a carbon tax that varies over the cycle
+We find that the optimal policy to counter climate change embeds a trade-off between environmental
+protection and safeguarding the economy. There is now a consensus that immediate action to combat
+climate change is urgently needed. The challenge, however, is that curbing emissions cannot be achieved
+without costs. Indeed, there is evidence that an increase in the price of emissions can have a negative
+impact on the economy in the short term (e.g. Bijnens et al., 2021; Känzig, 2021). Our theory shows that a
+carbon tax that is optimally designed takes this dimension into account.
+Combining our theory with econometric techniques allows us to provide an estimate of the optimal carbon
+tax over the cycle. In Chart 1, we report the results of a counterfactual exercise that estimates the
+historical evolution of the revenues of an optimal carbon tax for the US economy (expressed in percent of
+GDP), as predicted by our theory.
+We propose that in crisis times macroeconomic stabilisation should be given priority over environmental
+protection. Indeed, as illustrated in Chart 1, the optimal policy should be used to mitigate the effect of
+severe recessions. For example, it would have been optimal to reduce the carbon tax sharply during the
+great recession of 2007-2009. During booms, in contrast, curbing emissions should be the prime concern.
+As emissions in the data are strongly procyclical, combating climate change is optimally achieved by
+raising the carbon tax during expansions. Carbon emitters therefore bear the burden of an increase in
+taxation during booms, but not during recessions.
+Our policy recommendation is robust to variations in specification. The novelty of our approach is to
+highlight the possible impact of climate change on attitudes towards risk. However, studies that focus on
+the damage caused by climate change to production reach a similar conclusion (e.g. Heutel, 2012).
+Environmental policies should be time-varying and prudential.
+Implications for equilibrium real interest rates
+We find that climate policies and climate change could affect equilibrium real interest rates, i.e. the rates
+that equate saving and investment. According to our theory, the reason is that climate change raises risk
+aversion. Since risk aversion amplifies the effect of uncertainty on economic decisions, climate change
+stimulates precautionary savings. The increase in the supply of savings induced by this mechanism then
+lowers equilibrium real interest rates.
+Consequently, policies that mitigate the effect of climate change could raise equilibrium real interest rates.
+Indeed, the optimal policy set out in our theory reduces the uncertainty caused by climate change. The
+key is that this reduction in uncertainty lowers the need for precautionary saving. This lower willingness to
+save in turn puts upward pressure on real interest rates, as the availability of funds declines.
+Chart 1
+Counterfactual environmental tax bill in % of GDP for the US economy
+Note: Gray shaded areas are NBER dated recessions.
+7/2021 A time-varying carbon tax to protect the environment while safeguarding the economy
+https://www.ecb.europa.eu/pub/economic-research/resbull/2021/html/ecb.rb210728~224099ec93.en.html 3/4
+This result is potentially relevant for monetary policy. Indeed, low real interest rates increase the likelihood
+of hitting the effective lower bound on nominal rates, i.e. the point where nominal interest rates can go no
+lower. Policies that increase equilibrium real rates therefore help monetary policy by alleviating this
+constraint.
+Conclusion
+Climate change is a long-term phenomenon. However, as our results suggest, climate policies have
+implications for the short and medium term. One main takeaway from our analysis is that the optimal
+carbon tax should vary substantially over the cycle. In practice, however, constraints related to political
+economy considerations[ ] or the difficulty in assessing the state of the economy in real time could make
+the optimal policy difficult to implement. One possible solution would be to delegate this function to an
+independent institution endowed with sufficient resources.

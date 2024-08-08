@@ -1,0 +1,151 @@
+Prudential regulation, national differences and
+banking stability
+By Angela Maddaloni and Alessandro Scopelliti[1]
+What role does prudential regulation play in the prevention of banking crises? Before the financial crisis
+there were important national differences in the implementation of the EU framework for capital regulation.
+This article suggests that these differences had important implications for the resilience of banks during
+the crisis and that, generally, banks that were subject to less stringent prudential regulation before the
+crisis were more likely to require some form of public support when the crisis came.
+Banking regulation and supervision are designed to increase the resilience of credit institutions and to
+support the stability of the financial system overall. In the years following the financial crisis that started in
+2008, an important academic and policy debate has emerged on the role played by prudential regulation in
+the prevention of banking crises. In particular, the debate has focused on whether the prudential
+framework, including both the regulatory setting and the supervisory enforcement[2] – or rather its leniency
+– was instrumental in spurring the crisis and whether a more stringent prudential framework could have
+prevented or reduced the episodes of bank distress recorded during the crisis.
+A recent study by Maddaloni and Scopelliti (2019) addresses this question by investigating the resilience
+of EU banks that were subject to different national prudential frameworks in the run-up to the crisis. A key
+contribution of the study is that it proposes a new indicator of prudential regulation at the country level,
+which is based on the national implementation of EU directives for capital requirements. Previous studies
+have instead relied on indicators developed for global comparisons, which may not be able to fully capture
+the granularity of national differences among countries with a high degree of regulatory harmonisation, as
+is the case for the EU Member States.[3]
+Differences in the pre-crisis prudential regulation
+across EU countries
+The EU framework for prudential regulation before the crisis was based on some key principles defined at
+the EU level via directives, but implemented at the country level through the transposition of these
+directives into acts of national law. In the case of capital requirements, for instance, the national
+implementation of the Capital Requirements Directive (CRD)[4] allowed for a number of national options
+and discretions that provided a relevant source of variation in prudential regulation across EU Member
+States. Within the common framework enshrined in the CRD, national authorities could take advantage of
+152 national options and discretions, which enabled them to enforce capital adequacy requirements with
+varying degrees of stringency.
+Maddaloni and Scopelliti (2019) use the information about the exercise of these options and discretions by
+national authorities to build indicators of the effectiveness of the prudential framework in EU Member
+States ahead of the global financial crisis. Depending on the type of options and discretions, two separate
+indicators are constructed, measuring regulatory flexibility and supervisory discretion. Regulatory flexibility
+refers to the provision of a more favourable regulatory treatment for all banks located in a given country. Supervisory discretion denotes the power of supervisory authorities to authorise – on a case-by-case basis
+– a more favourable treatment for specific credit institutions[5].
+
+5/2019 Prudential regulation, national differences and banking stability
+
+https://www.ecb.europa.eu/pub/economic-research/resbull/2019/html/ecb.rb190523~65756630c3.en.html 2/6
+
+To give some examples, regulatory flexibility allowed national authorities to set a more lenient definition of
+loan default in terms of number of days past due (implying potential forbearance on non-performing loans),
+or to apply a lower risk weight for short-term interbank exposures (reducing regulatory costs for interbank
+loan supply). These rules would apply to all banks subject to the supervision of national authorities.
+Furthermore, supervisory discretion allowed national supervisors – based on a case-by-case assessment
+– for example, to set a 0% risk weight for banks’ exposures guaranteed by the governments, and to apply
+a more favourable credit risk treatment to banks’ exposures to public sector entities (potentially increasing
+the nexus between banks and sovereigns, or public sector institutions). Chart 1 displays the country values
+for the two indicators and the corresponding averages, showing some heterogeneity across EU Member States.
+The indicators are then used to investigate whether different regulatory regimes can explain, at least partly,
+the probabilities that banks required some form of public support to deal with the distress arising from the
+financial crisis. The analysis considers measures of public support, such as capital injections, guarantees
+on bank liabilities, and liquidity facilities, as implemented by national public authorities and subject to the
+approval of the European Commission.
+Chart 1: The indicators of prudential regulation across EU Member States
+1.A Regulatory flexibility
+
+5/2019 Prudential regulation, national differences and banking stability
+
+https://www.ecb.europa.eu/pub/economic-research/resbull/2019/html/ecb.rb190523~65756630c3.en.html 3/6
+
+Notes: The above charts display – for the 15 EU Member States in the analysed sample – the values of the indicators of
+regulatory flexibility (Chart 1.A) and supervisory discretion (Chart 1.B), as well as the corresponding averages across
+countries. The indicators are computed based on the exercise – by national authorities – of the options and discretions set
+in the CRD. Provided that national options and discretions generally imply more lenient regulatory treatment, the exercise
+of an option by national authorities increases the value of the indicator. In particular, higher values of the indicators reflect
+a more permissive treatment for all credit institutions (regulatory flexibility) or for some of them following a case-by-case
+supervisory assessment (supervisory discretion).
+Prudential regulation stringency and banks’
+resilience to crisis
+Overall, the analysis suggests that banks subject to less stringent national prudential regulation before the
+crisis were more likely to require public support during the period 2008-10. The result holds for indicators
+of supervisory discretion and of regulatory flexibility, suggesting that differences in both domains in the
+implementation of the CRD were important for bank resilience.
+But why did banks that were subject to less stringent prudential regulation exhibit a higher probability of
+needing public support during the crisis? To address this question, the second step of the analysis
+investigates the channels through which a more lenient prudential framework may have led to greater
+financial vulnerability. Given that prudential requirements directly affected the capital position of banks, the
+analysis focuses on other characteristics of bank balance sheets that were often mentioned as potential
+sources of risk that erupted during the crisis. In particular, the study investigates how banks’ (a) fraction of
+non-interest income over total revenues (involvement in non-lending activities), (b) amount of loans over
+total assets (extent of credit provision), and (c) liquidity buffers in relation to deposits and short-term
+liabilities (availability of liquid assets to counteract liability outflows) were related to the prudential
+framework and how they affected banks’ likelihood of receiving public support.
+A high fraction of bank income resulting from non-lending activities has been often mentioned as a
+negative signal, i.e. a sign that banks venture away from the core business into risky activities. Indeed, the
+study finds that the share of non-interest income that is explained by a less-stringent regulatory framework
+– measured both by supervisory discretion and regulatory flexibility – significantly increases the probability
+of having received some form of public support (in particular recapitalisation).
+When looking at credit provision, there is instead limited evidence that a more lenient prudential framework
+is correlated with larger lending provision hindering the stability of banks; in fact, the effects depend
+significantly on the design of the prudential framework. On the one hand, bank lending in countries with a
+more flexible regulatory environment is indeed associated with a greater likelihood of having received
+1.B Supervisory discretion
+
+5/2019 Prudential regulation, national differences and banking stability
+
+https://www.ecb.europa.eu/pub/economic-research/resbull/2019/html/ecb.rb190523~65756630c3.en.html 4/6
+
+recapitalisation, public guarantees or liquidity support during the crisis. On the other hand, in countries
+where supervisors had more discretionary powers, banks may have been prevented from engaging in risky
+lending[6], since credit provision explained by supervisory discretion is associated with a lower probability
+of having received public support.
+The Basel II framework did not include explicit liquidity requirements; however, the analysis documents the
+existence of regulatory spillovers, as banks subject to different regulatory frameworks tended to have
+different levels of liquidity buffers. Chart 2 illustrates this point for supervisory discretion and regulatory
+flexibility indicators. In countries with more supervisory discretion, banks tended to have larger buffers of
+liquid assets, mainly in the form of government bonds. Conversely, banks located in countries with higher
+regulatory flexibility tended to have lower liquidity buffers.
+Chart 2: Prudential framework and liquid assets
+2.A Regulatory flexibility and liquid assets
+(liquid assets as % of total deposits and short-term borrowing)
+
+5/2019 Prudential regulation, national differences and banking stability
+
+https://www.ecb.europa.eu/pub/economic-research/resbull/2019/html/ecb.rb190523~65756630c3.en.html 5/6
+
+Notes: The charts show the scatter plots – at the country level – of the liquid assets ratio and the prudential indicator value
+(regulatory flexibility in Chart 2.A and supervisory discretion in Chart 2.B). The liquid assets ratio (in percentages, on the
+y-axis) is computed as the ratio of liquid assets to total deposits and short-term borrowing. The blue dots refer to the
+country-level averages over the period 2000-04, so they give a snapshot of the pre-existing situation before the
+implementation of Basel II. The red dots plot the country-level averages calculated over the period 2005-07 and refer to
+the period of the implementation of the CRD.
+When linking explicitly liquidity buffers with the prudential framework, the analysis suggests that lower
+liquidity buffers explained by a more flexible regulatory framework are indeed associated with a higher
+probability of having received some form of public support (banks in weaker liquidity positions were less
+able to withstand the crisis shocks), which points to spillovers across regulatory instruments. At the same
+time, though, also the composition of these liquidity buffers matters, since when liquid assets take the form
+of sovereign debt holdings explained by the prudential framework, the impact on banks’ resilience is
+negative, presumably due to the increase in the sovereign-bank nexus and the associated risk.
+Conclusions and policy implications
+The European banking union was partly undertaken to address the concerns, arising from the crisis
+experience, that national differences in the implementation of the EU prudential framework might have
+fostered risk accumulation ahead of the financial crisis. The results of the analysis reported in this article
+provide some support to this argument. Moreover, the analysis also suggests that these national
+differences had important implications for bank behaviour.
+Furthermore, the analysis on supervisory discretion and regulatory flexibility sheds some light on the
+incentives related to different designs of the prudential framework, i.e. whether it is based more on general
+rules for all banks or on a case-by-case assessment by supervisory authorities. The study suggests that
+both dimensions are important in providing an effective mechanism to influence the structure of banks’
+incentives.
+The single rulebook still contains a relevant number of national options and discretions. To deal with the
+level-playing field issues resulting from different national rules, the European Central Bank has conducted
+extensive work on harmonising national options and discretions within the euro area, first with the
+publication of a regulation and a guide regarding significant institutions (March 2016), and then with the
+publication of a guideline and a recommendation concerning less significant institutions (April 2017)[7].
+These initiatives can contribute to the stability of national banking systems, by realigning the regulatory
+incentives on the basis of a common prudential framework.

@@ -1,0 +1,1091 @@
+Union Budget 2018-19:
+An Assessment*
+
+1
+Effective Revenue Deficit is the difference between revenue deficit
+and grants for creation of capital assets signifying that amount of capital
+receipts that are being used for actual consumption expenditure of the
+Government.
+
+92
+Medium Term Expenditure Framework (MTEF)/Fiscal
+Responsibility and Budget Management (FRBM) review
+roadmap (Table 1). The achievement of the target
+of 3.0 per cent of GDP has been deferred to 2020-21
+as per the proposed new regime of the FRBM. The
+Government has further decided to insert adequately
+defined “escape and buoyancy clauses” to determine
+when the targets may be relaxed or tightened as the
+case may be2
+
+. The Government has also decided to do
+away with the deficit targets on revenue account, i.e.
+RD and consequentially, ERD.
+The decomposition of GFD for 2018-19 shows that
+although the revenue deficit-GDP ratio is budgeted to
+
+reduce in 2018-19 vis-à-vis 2017-18, it continues to pre-
+empt almost 67 per cent of the borrowed resources as
+
+against 59 per cent in 2016-17 (Table 2).
+The fiscal slippage in 2017-18 needs to be seen
+in the context of the reforms that are underway,
+especially the GST and its implementation as well as
+the fact that less than the full year’s collections were
+available. Nevertheless, it might have implications
+for macro-economic stability while undermining
+
+the confidence of external investors (RBI, Sixth Bi-
+monthly Monetary Policy Statement, 2018). The fiscal
+
+credibility is particularly important from ratings
+agencies’ perspective, considering that India remains
+a relatively high debt and high deficit country among
+similarly rated countries (Annex II). Also, given that
+India’s combined deficit remains high vis-a-vis its
+Asian peers, there is a need for radical programme of
+deep fiscal adjustment requiring close coordination
+between the Union and the State governments (Joshi,
+2017) (Annex III).
+While the headline fiscal deficit numbers
+have been widely analysed vis-à-vis observable
+parameters, assessing the fiscal deficit with respect
+to certain unobservable parameters also provide
+some useful insights. International institutions
+like the International Monetary Fund (IMF) and
+the Organisation for Economic Cooperation and
+Development (OECD) have conducted extensive
+research in this area and are encouraging economies to
+adopt and publish fiscal stance after due adjustments
+for the impact on account of business cycle and other
+unobserved cyclical factors like asset and commodity
+prices (Bornhorst et al., 2011; Fedelino et al., 2009;
+Girouard and Andre 2005). This is crucial, particularly
+to enhance fiscal transparency as weakening of the
+fiscal balance can sometimes be masked temporarily
+by high output/asset price upturns. Conversely, during
+a recession, the fiscal balance can be overstated on
+account of cyclical factors.
+In 2017-18, growth slowed cyclically and this
+contributed to some loss of tax revenue. Computing
+the cyclically adjusted fiscal deficit as per the IMF
+definition3
+
+, the business cycle impact on fiscal deficit
+
+Table 1: Fiscal Deficit: Actual vis-à-vis Observable
+
+Targets (Per cent of GDP)
+2017-18 2018-19
+RE MTEF
+FRBM
+Review
+Panel
+BE MTEF
+FRBM
+Review
+Panel
+FD/GDP 3.5 3.2 3.0 3.3 3.0 3.0
+RD/GDP 2.6 1.9 2.1 2.2 1.6 1.8
+ERD/GDP 1.5 0.7 - 1.2 0.4 -
+
+Table 2: Decomposition of GFD (Per cent)
+2015-16 2016-17 2017-18 2018-19
+BE Actual BE Actual BE RE BE
+Revenue Deficit 71.0 64.3 66.3 59.1 58.8 73.8 66.6
+Capital Outlay 39.1 42.5 41.0 46.3 49.4 42.1 44.6
+Net Lending 2.4 1.0 3.2 3.6 5.1 0.9 1.5
+Disinvestment -12.5 -7.9 -10.6 -8.9 -13.3 -16.8 -12.8
+2 Fiscal Policy Strategy Statement, 2018-19
+
+3 These have been computed based on HP and BK based potential output
+estimates and using revenue elasticities, both aggregated and disaggregated,
+as estimated for India using the IMF, OECD and ECB approach in Ghosh and
+Misra (2015) and Misra and Trivedi (2016).
+
+article
+
+RBI Bulletin April 2018 93
+Union Budget 2018-19: An Assessment
+
+is estimated to be about 0.17 per cent of GDP in
+2017-18. This implies that but for the negative output
+gap, the gross fiscal deficit would have been 3.3
+per cent of GDP and not the headline 3.5 per cent.
+However, this fiscal leeway gets wiped out if one takes
+into account the terms of trade benefit that the fisc
+had enjoyed due to decline in oil prices since 2015-
+16 on dual grounds: lower subsidies on Kerosene and
+LPG as well as higher excise on petrol and diesel as low
+
+prices were not completely passed on to consumers.
+While the benefit due to terms of trade effect is
+estimated at its highest in 2016-17 at 0.62 per cent
+of GDP, for 2017-18 it is placed at 0.48 per cent4
+taking the overall fiscal balance adjusted for cyclical
+and terms of trade effect to about 3.8 per cent (Chart
+1). Going forward in 2018-19, with oil prices rising
+and output gap remaining close/slightly below the
+potential, fiscal deficit may not enjoy these terms of
+trade and business cycle benefits as indicated in the
+last row of Table 3.
+II. Receipts
+II.1 Tax Revenue
+The Union Budget has estimated gross tax
+revenue to grow by 16.7 per cent in 2018-19 to 12.1
+per cent of GDP (Annex IV). Net of devolution of tax
+revenues to States, net tax revenue is budgeted to
+grow by 16.6 per cent to 7.9 per cent of GDP. This is
+the highest budgeted tax-GDP ratio so far, reflecting
+the formalisation of GST and widening of the tax base
+(Chart 2).
+
+Table 3: Business Cycle and Terms of Trade Effect
+
+(as per cent of GDP)
+
+Year Actual Fiscal
+Deficit
+Business
+Cycle Benefit
+
+Terms of
+Trade Benefit
+Total
+Benefit
+2015-16 3.9 0.24 0.32 0.56
+2016-17 3.5 0.13 0.62 0.75
+2017-18 RE 3.5 -0.17 0.48 0.31
+2018-19 P 3.3 Zero/negative negative negative
+4 Terms of trade effect have been estimated by (1) subtracting the excess
+excise in petrol and diesel in these years from its long term trend and
+(2) by adding the estimated additional subsidy that GoI would have given
+based on the average long run elasticity of subsidies to oil price gap. While
+the methodology remains as in the literature, it may be noted that terms of
+trade benefit has generally been computed for oil exporting countries during
+oil price rise (Parkyn, 2010 and Turner, 2006). However, given that India is
+an importer of oil, terms of trade benefit is associated with oil price decline.
+
+3.5
+3.3
+3.8
+Terms of trade effect
+
+2.5
+3
+3.5
+4
+4.5
+5
+5.5
+6
+6.5
+
+2000-01
+2001-02
+2002-03
+2003-04
+2004-05
+2005-06
+2006-07
+2007-08
+2008-09
+2009-10
+2010-11
+2011-12
+2012-13
+2013-14
+2014-15
+2015-16
+2016-17
+2017-18
+
+Per cent of GDP
+
+Chart 1: Fiscal Deficit : Actualvis - a vis vis - a vis Unobservable Parameters
+
+Business cycle effect
+
+Actual fiscal balance Cyclically adjusted/Structural fiscal balance (CAB) CAB adjusted for terms of trade effect
+
+94
+The budgeted buoyancies for all tax categories
+of direct taxes are higher in 2018-19 than the
+average of the preceding eight years (2010-11 to
+2017-18) (Table 4).
+II.1.1 Direct Taxes
+Direct taxes are budgeted to grow by 14.4 per cent
+in 2018-19, mainly on account of an estimated 19.9 per
+cent growth in income tax collections. The number of
+taxpayers has increased post demonetisation. During
+the current financial year, 6.84 crore income-tax
+returns were filed as compared to 5.43 crore returns
+filed during the last financial year, which translates
+into a growth rate of 26 per cent5
+
+. Direct Taxes
+
+collections during 2017-18 have helped in making up
+for the shortfall in non-tax revenue.
+The Government aiming to provide relief
+to salaried taxpayers, has announced a standard
+deduction of ` 40,000/- in lieu of the present exemption
+in respect of transport allowance and reimbursement
+of miscellaneous medical expenses. On the other
+hand, the existing 3 per cent education cess will be
+replaced by a 4 per cent “Health and Education Cess”
+to be levied on the tax payable.
+The corporate tax rate of 25 per cent for
+companies whose turnover was less than ` 0.5 billion
+in financial year 2015-16 has now been extended
+
+Table 4: Tax Buoyancy
+
+Average Tax Buoyancy
+(2008-09 to 2017-18)
+
+Post Crisis Tax Buoyancy
+(2010-11 to 2017-18)
+
+2017-18 Revised Estimates Budgeted Tax Buoyancy for
+2018-19
+1 2 3 4 5
+Gross Tax Revenue 1.01 1.22 1.34 1.45
+Corporation Tax 0.87 0.87 1.62 0.88
+Income Tax 1.17 1.37 2.09 1.72
+Customs Duty 0.23 0.46 -3.98 -1.46
+Union Excise Duty 0.84 1.21 -2.74 -0.54
+Service Tax 0.75 0.79 -6.85 -8.66
+5 GoI, Press Information Bureau, April 02, 2018
+
+Chart 2: Tax-GDP Ratio:Budgeted to be Highest so far
+
+Tax-GDP Ratio
+
+10.2 10.4
+
+5.0
+6.0
+7.0
+8.0
+9.0
+10.0
+11.0
+12.0
+13.0
+14.0
+
+2011-12 2012-13 2013-14 2014-15 2015-16 2016-17 2017-18
+(RE)
+2018-19
+(BE)
+
+Per cent
+
+10.1 10.0
+
+10.6
+
+11.2
+
+11.6
+
+12.1
+
+article
+
+RBI Bulletin April 2018 95
+Union Budget 2018-19: An Assessment
+
+to companies with turnover up to ` 2.5 billion. The
+estimate of revenue forgone due to this measure is
+`70 billion during the financial year 2018-19. The
+lower corporate income tax rate for 99 per cent of the
+companies, however, will benefit the entire class of
+micro, small and medium enterprises as it will leave
+them with higher investible surpluses. Also, it will
+encourage higher tax compliance in the MSME sector.
+II.1.2 Indirect Taxes
+Indirect taxes collection in 2017-18 exceeded
+2016-17 collections by 8.7 per cent, despite receiving
+GST revenues only for 11 months, instead of 12
+months. Indirect taxes are budgeted to grow by 19.1 per
+cent during 2018-19, with GST collections budgeted at
+`7.4 trillion - an increase of 67.3 per cent and 21.5 per
+cent after adjusting for loss of one month collection
+(Table 5). On GST, while on one hand concerns have
+been raised on the significantly high budgeted numbers
+given that rationalisation of rates is still underway, on
+the other hand, international evidence suggests that
+implementation of VAT/ GST have resulted in a higher
+government revenue-GDP ratio over time (RBI, 2017).
+About 1.03 crore taxpayers have been registered under
+GST so far (till February 25, 2018) of which 16.42 lakh
+are Composition Dealers which are required to file
+returns every quarter6
+.
+
+Customs duty on certain items have been
+increased – illustratively, the duty on mobile phones
+has been increased from 15 per cent to 20 per cent
+and on certain parts of TVs to 15 per cent. Though the
+increase in customs duty is expected to incentivise
+
+the domestic value addition and the Make in India
+initiative and may also promote creation of more jobs
+in the country, it may likely be seen as a protectionist
+measure attracting retaliatory actions from trading
+partners.
+II.2 Non-Tax Revenue
+Receipts from non-tax revenues are budgeted
+to increase in 2018-19 by 3.9 per cent. Dividend and
+profits from public sector enterprises (including
+public sector banks) and surplus transfer from the
+RBI were lower than the budgeted amount by 25.3 per
+cent during 2017-18 and are effectively budgeted to
+increase on the lower base (Table 6). With the merger
+of the Railway Budget with the Union Budget, the
+Railways has stopped paying dividend on the capital
+at charge since 2017-18.
+Within receipts from economic services, net
+receipts from communication services (i.e., spectrum
+auctions) are budgeted to be significantly higher
+in 2018-19 than in 2017-18 (RE) - by 58.3 per cent.
+Notably, net receipts from communication services
+were budgeted at `443.4 billion in 2017-18, but actual
+receipts (`307.4 billion) fell short mainly because of
+deferment of spectrum auctions.
+It is observed that non tax revenues provided
+strong support to central government receipts in
+2015-16 (27.0 per cent growth) and 2016-17 (33.2 per
+cent growth). With non-tax revenues in 2017-18 and
+2018-19 being lower than 2016-17, the pressure will be
+higher on the government to achieve the tax revenue
+and the disinvestment targets.
+
+6 GoI, Press Information Bureau, February 27, 2018
+Table 5: GST Collections
+2017-18 (RE)
+(` billion)
+2018-19 (BE)
+(` billion)
+Year-on-Year
+Growth Rate
+(Per cent)
+CGST 2214 6039 172.8
+IGST 1619 500 -69.1
+Compensation Cess 613 900 46.7
+Total 4446 7439 67.3
+
+Table 6: Dividends and Profits
+` Billion Growth Rate (Per cent)
+2016-17 2017-18
+(RE)
+2018-19
+(BE)
+2016-17 2017-18
+(RE)
+2018-19
+(BE)
+
+Dividend and
+Profits 1230.2 1064.3 1073.1 9.7 -13.5 0.8
+From PSEs 518.5 548.1 524.9 69.4 5.7 -4.2
+From RBI/
+Banks/FIs 711.6 516.2 548.2 -12.7 -27.5 6.2
+
+96
+II.3 Non-debt Capital Receipts
+The target for disinvestment has been pegged
+at `800 billion in 2018-19 (BE). In 2017-18 (RE), the
+Government exceeded the target by `275 billion
+facilitated by buoyant stock markets (Chart 3). Net
+recoveries of loans and advances are budgeted to
+
+decline by 30.2 per cent over 2017-18 (RE). Total non-
+debt capital receipts, which were `330 billion higher
+
+in 2017-18 (RE) than BE, are estimated to decline by
+21.5 per cent in 2018-19 (BE). With the realisation
+of budgeted targets for disinvestment in 2017-18 for
+the first time since 2009-10, there is optimism on
+the prospects for 2018-19. This will support revenue
+mobilisation efforts and render the deficit financeable.
+Any corrections in the stock market may, however,
+make it challenging for the Government to meet its
+budgeted target in 2018-19.
+III. Expenditure
+Total expenditure is budgeted to grow by 10.1 per
+cent in 2018-19 (12.3 per cent in 2017-18 RE) (Table 7).
+Revenue expenditure is budgeted to grow at a higher
+rate than capital expenditure.
+
+The Budget estimates for different expenditure
+categories deviate from the MTEF Statement (an FRBM
+document), which was laid before the Parliament in
+August 2017. Total expenditure is budgeted to be
+4.4 per cent higher than in the MTEF statement,
+mainly on account of higher revenue expenditure,
+particularly pensions and petroleum subsidies
+(Table 8). Expenditure projections diverging in the
+span of five months, i.e., from the MTEF in August
+2017 may pose risks to credibility of the fiscal
+policy stance. With the revenue-capital ratio
+slated to worsen from 6:1 in 2016-17 to 7:1 in
+2018-19, the quality of public expenditure may
+remain a concern.
+Table 7: Expenditure of Central Government
+Item Per cent of GDP Growth Rate
+
+2016-
+17
+2017-
+18(RE)
+2018-
+19(BE)
+2016-
+17
+2017-
+18(RE)
+2018-
+19(BE)
+
+Total
+Expenditure 12.9 13.2 13.0 10.3 12.3 10.1
+Revenue
+Expenditure 11.1 11.6 11.4 9.9 15.0 10.2
+Capital
+Expenditure 1.9 1.6 1.6 12.5 -3.9 9.9
+0
+5000
+10000
+15000
+20000
+25000
+30000
+35000
+
+0
+200
+400
+600
+800
+1000
+1200
+
+1995-96
+1996-97
+1997-98
+1998-99
+1999-2000
+2000-01
+2001-02
+2002-03
+2003-04
+2004-05
+2005-06
+2006-07
+2007-08
+2008-09
+2009-10
+2010-11
+2011-12
+2012-13
+2013-14
+2014-15
+2015-16
+2016-17
+2017-18 RE
+2018-19 BE
+Index
+
+` billion
+
+Realisation of Proceeds BSE Sensex (Annual Average) RHS
+Years when disinvestment target
+met/exceeded
+Chart 3: Disinvestment Proceeds and Stock Market Performance
+
+article
+
+RBI Bulletin April 2018 97
+Union Budget 2018-19: An Assessment
+
+III.1 Capital Expenditure
+Capital expenditure which is growth inducing
+has been proposed to be raised by 9.9 per cent in 2018-
+19 over the revised estimates of 2017-18, marking
+a decline of 3.0 per cent when compared with BE
+of 2017-18. Capital Outlay (capital expenditure
+excluding loans and advances) is budgeted to
+increase by 12.6 per cent in 2018-19, a marginal
+rise over BE but sharply higher than 1.6 per cent in
+2017-18 (RE). Capital outlay on major infrastructure
+is estimated to grow by a robust 23.0 per cent in
+2018-19 (BE) - as against a decline of (-) 2.1 per cent in
+2017-18 (RE) - led by the railways, roads and bridges
+
+(Table 9). Expenditure on civil aviation, on the
+other hand, is in contraction, as it has been since
+2016-17, the sector is being encouraged to tap the
+market through borrowings and asset monetisation
+rather than rely on budgetary support. The budgeted
+allocation for communications (growth of 0.5 per cent
+over 2017-18 RE) may not seem to be in consonance
+with the objective of gradual transformation towards
+a digital economy.
+In a partial equilibrium framework, a rise of
+` 207 billion in capital outlay is likely to increase
+output by ` 434 billion (about 0.2 % of GDP in
+2018-19), assuming the capital outlay multiplier to
+be 2.10 (Jain and Kumar; 2013). It may be noted that
+amongst its peer EMEs, India’s share of GDP spent on
+capital expenditure is low despite relatively higher
+fiscal deficit (Chart 4) (Akin et al; 2017). Actual capital
+expenditure, however, would be higher than the
+budget estimates if the internal and extra budgetary
+resources (IEBR) deployed by the central Public
+Sector Units (PSUs) and commercial departmental
+undertakings are considered. It, therefore, needs to
+be recognised that the Government is now financing
+important expenditure of capital nature through
+extra budgetary resources (EBR).
+
+Table 8: Budget Estimate (BE) vis-s-vis MTEF Statement
+(` Billion)
+Expenditure Items 2018-19 Difference=
+BE-MTEF
+
+Budget
+Estimate
+Projection
+by MTEF
+Statement
+` Billion Per cent
+I. Revenue Expenditure 21417.7 19990.1 1427.7 7.1
+of which
+(i) Interest 5758.0 5644.0 114.0 2.0
+(ii) Pension 1684.7 1443.2 241.5 16.7
+(iii) Major Subsidies 2643.3 2630.0 13.4 0.5
+a. Fertiliser 700.8 700.0 0.8 0.1
+b. Food 1693.2 1750.0 -56.8 -3.2
+c. Petroleum 249.3 180.0 69.3 38.5
+II. Capital Expenditure 3004.4 3410.0 -405.6 -11.9
+III. Total Expenditure 24422.1 23400.1 1022.1 4.4
+
+Table 9: Capital Outlay
+2015-16 2016-17 2017-18
+(RE)
+2018-19
+(BE)
+2016-17 2017-18(RE) 2018-19 (BE)
+
+(` Billion) (Percent Change)
+
+1. Total Capital Outlay 1467.3 1614.3 1640.1 1846.8 10.0 1.6 12.6
+(Excluding defence)
+1.1 Major Infrastructure 737.8 1001.2 980.4 1206.1 35.7 -2.1 23.0
+Irrigation 0.9 0.8 3.2 6.2 -8.5 285.5 95.3
+Energy 19.4 45.3 28.0 52.6 133.2 -38.3 88.1
+Indian Railways 350.1 452.3 400.0 530.6 29.2 -11.6 32.7
+Roads and Bridges 296.4 437.7 480.3 557.2 47.7 9.7 16.0
+Civil Aviation 33.6 27.1 18.4 7.2 -19.4 -31.9 -60.9
+Ports and Light Houses 1.9 3.2 1.7 3.3 66.9 -46.5 91.7
+Communications 35.5 34.8 48.8 49.0 -2.0 40.4 0.5
+1.2 Industry and Minerals 36.2 41.4 42.6 45.0 14.1 3.0 5.5
+1.3 Science, Technology and 40.4 52.3 53.2 70.5 29.5 1.7 32.5
+Environment
+1.4 Others 652.9 519.4 563.9 525.3 -20.4 8.6 -6.8
+
+98
+With the National Health Protection Scheme
+under the ‘‘Ayushman Bharat’’ programme
+aimed at interventions in the primary, secondary
+and tertiary care system and the reform of the
+education system, the expenditure on health and
+
+education, together, is budgeted to grow by 4.6
+per cent as per the Union Budget 2018-19. In
+terms of GDP, the social sector expenditure, primarily
+constituting health and education in India continues
+to remain woefully below peers (Chart 5).
+
+7
+Average of three years viz., 2013-14 to 2015-16 has been taken for Central Government capital expenditure and fiscal balance for the countries depicted
+in the graph. The data has been sourced from ADB Statistical Database; Central Bank of Mexico; Central Bank of Sri Lanka; Budget Management Department,
+Philippines; Central Bank of Peru and Union Budget Documents, India.
+
+Chart 4: Government Capital Expenditure and Fiscal Balance Average of FY 2014 - FY 2016 7
+
+Capex/GDP Fiscal Deficit/GDP
+
+1.8 1.5
+
+3.8 3.5
+
+1.28
+
+3.4
+
+4.6 5.0
+
+- 3.8
+
+- 2.4 - 3.1
+
+0.4
+
+- 1.3
+
+- 3.2
+
+- 2
+
+- 6.2
+
+-8.0
+-6.0
+-4.0
+-2.0
+0.0
+2.0
+4.0
+6.0
+
+India Indonesia Mexico Philippines Thailand Malaysia Peru Sri Lanka
+
+Per cent
+
+Chart 5: Social Sector Expenditure as % GDP (2016)
+
+29.0
+28.9
+27.0
+24.6
+24.1
+22.8
+20.6
+20.2
+19.4
+18.6
+17.4
+16.1
+16.1
+15.2
+14.5
+10.4
+7.5
+
+0.0 5.0 10.0 15.0 20.0 25.0 30.0 35.0
+Belgium
+Italy
+Greece
+Spain
+Portugal
+Slovenia
+Hungary
+Poland
+Czech Republic
+Slovak Republic
+Estonia
+Ireland
+Israel
+Iceland
+Latvia
+Korea
+India
+
+Source:OECD Statistics and RBI
+
+article
+
+RBI Bulletin April 2018 99
+Union Budget 2018-19: An Assessment
+
+III.2 Subsidies and Interest Payments
+Subsidies and interest payments constitute a
+major portion of government’s committed revenue
+expenditure. In contrast to 2017-18 (RE) when major
+subsidies declined by `106.2 billion from the budget
+estimates in a broad-based manner, they are slated
+to increase by 15.1 per cent in 2018-19 mainly on
+account of increase in food subsidies by 20.7 per cent.
+The share of major subsidies is, however, budgeted to
+remain unchanged at 1.4 per cent of GDP in 2018-19
+(BE) (Table 10).
+Given the likely hardening of global crude and gas
+prices, petroleum and fertiliser subsidies, however,
+may rise. Owing to the farmer distress, minimum
+support prices have also risen reflecting itself in slight
+increase in food subsidy. Going forward, the budgetary
+outgo on major subsidies, however, should fall in
+the medium term via targeting and better coverage,
+through the direct benefit transfer (DBT) scheme and
+digitisation, which could reduce leakages.
+Interest payments are budgeted to increase
+by 8.5 per cent in 2018-19 over 2017-18 (RE). In
+2018-19 (BE), interest payments have been estimated
+at `5758 billion constituting 26.9 per cent of budgeted
+revenue expenditure and 23.6 per cent of the total
+budgeted expenditure of the central government,
+respectively. They are budgeted to be around 3.1 per
+cent of GDP in 2018-19 marginally lower than 3.2 per
+cent in 2017-18 (RE). The buoyancy in revenues are
+
+expected to mitigate the interest payment outgo of the
+Government8
+.
+Annex V presents the key receipts, expenditure
+and deficit indicators at a glance.
+IV. Financing of Deficit
+Gross market borrowing for 2018-19 is estimated
+at `6,055 billion, higher by about 1.1 per cent over
+the preceding year’s level. Net market borrowing at
+`3,991 billion is, however, estimated to decline by 2.6
+per cent during the same period on account of higher
+repayments during the year (Table 11). Switches
+(gross) of securities (which is cash neutral) and net
+buyback of `281 billion and `719 billion, respectively,
+are also provided for9
+
+. Net market borrowing through
+dated securities accounting for 63.9 per cent of the
+GFD in 2018-19 (BE) is lower than 68.9 per cent in
+2017-18 (RE). The Union Budget has provided for
+gross issuance of cash management bills (CMBs) at
+`1 trillion for cash management operations and not
+for funding the GFD. The net issuances of CMB is nil
+for 2018-19 (BE). Government aims to raise `50 billion
+via Sovereign Gold Bonds (SGBs) in 2018-19. Going
+forward, fiscal slippage concerns and concomitant
+higher borrowing requirements may have implications
+for the economy wide cost of borrowing and could
+crowd out productive private sector investment
+(RBI, MPR, 2018). Also, the potential interest savings
+due to reduced reliance on the market may not
+
+8
+Medium Term Expenditure Framework Statement, 2017
+9
+It may be noted that subsequent to budget announcement, the GoI, in its press release dated March 26 2018 has announced a reduction in financing via
+market borrowing by `500 billion, with `250 billion each to be financed by buybacks and National Small Savings Fund (NSSF).
+
+Table 10: Major Subsidies of Central Government
+
+(Amount in ` Billion)
+Items 2016-17 (Actuals) 2017-18 (BE) 2017-18 (RE) 2018-19 (BE)
+Amount % to GDP Amount % to GDP Amount % to GDP Amount % to GDP
+Total Major Subsidies 2,040.2 1.3 2,403.4 1.4 2,297.2 1.4 2,643.4 1.4
+i. Food 1,101.7 0.7 1,453.4 0.9 1,402.8 0.8 1,693.2 0.9
+ii. Fertiliser 663.1 0.4 700.0 0.4 649.7 0.4 700.8 0.4
+iii. Petroleum 275.4 0.2 250.0 0.1 244.6 0.1 249.3 0.1
+
+100
+
+accrue with higher recourse to NSSF and other small
+savings.
+V. Liabilities
+Total liabilities-GDP ratio of the Central
+Government is budgeted to decline to 47.8 per cent in
+2018-19 from 49.1 per cent in 2017-18 (RE). Notably, the
+Government has accepted the key recommendation
+of the Fiscal Reform and Budget Management
+Committee, 2017 relating to adoption of the Debt Rule
+and has decided to bring down Central Government’s
+Debt to GDP ratio to 40 per cent by 2024-25. Interest
+payments as proportion of revenue receipts, which is
+an indicator of debt servicing capacity, is budgeted to
+decrease marginally from the previous year (Chart 6).
+VI. Resource Transfers from Centre to States in
+2018-19
+Following the recommendation of the 14th Finance
+Commission, the States’ share of tax devolution was
+increased from 32 to 42 per cent of the divisible
+pool, serving the twin objectives of increasing the
+flow of unconditional transfers to the States and
+yet leaving appropriate fiscal space for the Union
+to carry out specific-purpose transfers to the States.
+
+Table 11: GFD Financing
+
+(` Billion)
+
+Item 2016-17
+(Actual)
+2017-18
+(RE)
+2018-19
+(BE)
+1 2 3 4
+Gross Fiscal Deficit 5,356.18 5,948.49 6,242.76
+(100.0) (100.0) (100.0)
+
+Financed by
+Net Market Borrowings* 3,381.49 4098.57 3991.20
+(63.1) (68.9) (63.9)
+Other treasury bills 170.57 700.07 80.00
+(3.2) (11.8) (1.3)
+Securities Issued against 674.35 1,026.28 750.00
+Small Savings (net) (12.6) (17.3) (12.0)
+External Assistance 179.97 24.18 -25.89
+(3.4) (0.4) -(0.4)
+State Provident Fund 177.45 150.00 170.00
+(3.3) (2.5) (2.7)
+NSSF 154.51 -415.54 0.00
+(2.9) -(7.0) (0.0)
+Reserve Fund -64.36 6.70 31.14
+-(1.2) (0.1) (0.5)
+Deposits and Advances 177.92 168.45 159.10
+(3.3) (2.8) (2.5)
+Draw Down of Cash Balances -88.95 -393.79 430.66
+-(1.7) -(6.6) (6.9)
+Others 593.23 583.58 656.54
+(11.1) (9.8) (10.5)
+*Includes Dated Securities and 364-day Treasury Bills, taking into account
+the net impact of switching of securities and buybacks.
+Note: Figures in parenthesis represent percentages to GFD.
+
+31.6 35.6 37.2 29.7 36.4 35.6 36.9 36.5 37.0 35.0 35.3 33.4
+2.5
+2.6
+2.7
+2.8
+2.9
+3.0
+3.1
+3.2
+3.3
+3.4
+3.5
+
+0
+5
+10
+15
+20
+25
+30
+35
+40
+45
+50
+55
+60
+
+2007-08
+2008-09
+2009-10
+2010-11
+2011-12
+2012-13
+2013-14
+2014-15
+2015-16
+2016-17
+2017-18 (RE)
+2018-19 (BE)
+
+Per cent
+
+Per cent
+
+Chart 6: Debt and Interest Burden of the Central Government
+
+Interest Payments/Revenue Receipts Debt/GDP Interest Payments/GDP(RHS)
+
+article
+
+RBI Bulletin April 2018 101
+Union Budget 2018-19: An Assessment
+
+Given the above background, gross transfer to state
+governments is expected to increase marginally during
+2018-19, largely driven by tax devolution and ‘finance
+commission grants’, even as growth in transfer through
+different schemes has decelerated sharply. Centre is
+expected to transfer `7,881 billion in the form of tax
+devolution to the state governments in 2018-19, which
+is around 17.0 per cent higher than the transfer made
+a year ago. This sharp increase is expected assuming a
+buoyant tax collection in 2018-19.
+In the Fiscal Policy Strategy Statement, it is
+highlighted that state governments seem to be moving
+close to their targeted fiscal consolidation – in part
+because the centre has guaranteed them a large increase
+in their indirect tax take, as part of the GST agreement.
+The transfer of GST compensation cess to states is
+fiscal neutral as the above amounts have been levied
+
+as a cess over the peak rate of 28 per cent on certain
+specified luxury and demerit goods, like tobacco and
+tobacco products, pan masala, aerated waters, motor
+vehicles. This is proposed to be introduced for a period
+of five years to compensate States for any revenue loss
+on account of implementation of GST. The amounts
+are transferred to a non-lapsable fund in the public
+account called the GST Compensation Fund as per the
+Section 10 of the GST (Compensation to States) Act,
+2017.
+Growth in transfer under centrally sponsored
+schemes, which has a share of around 22.0 per cent in
+the gross transfer, is expected to decelerate sharply by
+5.3 percent in 2018-19 as against a growth of 16.8 per
+cent a year ago. The transfer to states (per cent to GDP)
+is expected to increase by 10 basis points in 2018-19 in
+both gross and net terms (Table 12).
+
+Table 12: Resource Transfer to States
+2016-17 2017-18
+(RE)
+2018-19
+(BE)
+2016-17 2017-18
+(RE)
+2018-19
+(BE)
+2017-18
+(RE)
+2018-19
+(BE)
+Amount Share in Total Transfer Growth
+` Billion Per cent Per cent
+I. Devolution of States’ share in Taxes 6080.0 6730.1 7880.9 61.7 60.3 62.1 10.7 17.1
+II. Some Important Items of Transfer 480.5 393.9 544.8 4.9 3.5 4.3 -18.0 38.3
+Of which
+a. Externally Aided Projects - Loan 177.6 175.0 200.0 1.8 1.6 1.6 -1.5 14.3
+b. Special Assistance 109.0 70.0 150.0 1.1 0.6 1.2 -35.8 114.3
+III. Finance Commission Grants 955.5 1014.9 1093.7 9.7 9.1 8.6 6.2 7.8
+Of which
+a. Grant for Rural Local Bodies 313.7 390.4 450.7 3.2 3.5 3.6 24.5 15.4
+b. Grants for Urban Local Bodies 145.0 172.5 198.7 1.5 1.5 1.6 19.0 15.2
+c. Post Devolution Revenue Deficit Grants 413.1 358.2 345.8 4.2 3.2 2.7 -13.3 -3.5
+IV. Total Transfer to States
+[Other than (I)+(II)+(III)]
+
+2289.6 2967.2 3109.9 23.2 26.6 24.5 29.6 4.8
+a. Under Centrally Sponsored Schemes (Revenue) 2258.5 2637.8 2777.5 22.9 23.6 21.9 16.8 5.3
+b. Under Central Sector Schemes 24.1 317.65 321.9 0.2 2.8 2.5 1219.7 1.3
+V. Total Transfer to Delhi and Puducherry 51.1 52.7 65.0 0.5 0.5 0.5 3.1 23.3
+VI. Gross Transfers to States/UTs 9856.7 11158.8 12694.4 100.0 100.0 100.0 13.2 13.8
+VII. Less Recovery of Loans and Advances 125.8 93.0 96.0 - - - -26.1 3.2
+VIII. Net Transfers (VI-VII) 9731.0 11065.8 12598.4 - - - 13.7 13.9
+IX. Gross Transfers / GDP (per cent) 6.5 6.7 6.8 - - - - -
+X. Net Transfers / GDP (per cent) 6.4 6.6 6.7 - - - - -
+Source: Union Budget 2018-19
+
+102
+VII. Other Important Measures with relevance to
+Reserve Bank of India
+VII.1 Bank Recapitalisation
+The bank recapitalisation program has been
+launched with bonds of `800 billion being issued
+this year. The programme has been integrated with
+an ambitious reform agenda, under the rubric of
+an Enhanced Access and Service Excellence (EASE)
+programme. This recapitalisation will pave the way
+for the public sector banks to lend additional credit
+of `5 trillion. Recapitalisation is a significant step
+by the Government in strengthening the balance
+sheet of banks and should enable banks to scale up
+credit to productive sectors. Although the bond-based
+recapitalisation is budget-neutral, it effectively results
+in increasing the Government’s shareholding in public
+sector banks through rights shares and this might be
+perceived as roll-back of reforms by investors.
+VII.2 Standing Deposit Facility
+The Finance Bill proposes an amendment to
+section 17 of the RBI Act to enable the introduction
+of the standing deposit facility (SDF). This will
+considerably strengthen the conduct of monetary
+policy as it will provide the RBI the wherewithal to
+absorb exceptionally large expansion of liquidity
+without having to provide collateral to market
+participants. This additional instrument in the toolkit
+of the RBI will address episodes such as demonetisation
+and surges of capital inflows, and may even obviate
+the need for issuances under the Market Stabilisation
+Scheme which carry fiscal costs.
+VII.3 Minimum Support Prices
+Minimum support prices (MSP) for rabi crops
+at least at one and a half times of the cost has been
+extended to all kharif crops with a view to ensuring
+remunerative prices for farmers. It may be noted that
+
+Rabi MSPs fixed for crop year 2017-18 (market year
+2018-19) were one and a half times of A2+FL costs,
+not overall C2 costs which also include the imputed
+costs of owned land and interest on owned fixed
+capital. Further, for all crops (kharif and rabi) taken
+together, CPI-weighted MSPs were more than 1.5
+times A2+FL costs, but only 14 per cent higher over
+C2 costs9
+. In addition, there are several proposals that
+could reduce volatility in food inflation, viz.; higher
+procurement will stabilise market prices around
+MSPs; inclusion of tomatoes, onions and potatoes
+under ‘Operation Greens’; and adoption of cluster
+based models in a scientific manner at district levels.
+Although the exact impact of MSP increase on inflation
+cannot be fully assessed at this stage but it does pose
+upside risks to inflation outlook (RBI, Sixth Bi-monthly
+Monetary Policy Statement, 2018).
+VIII. Overall Assessment
+Summing up, the Union Budget for 2018-19
+is confronted with a tight trade-off between the
+rigours of fiscal consolidation and the demands for
+stimulating the economy. While the waning of the
+drag from demonetisation and GST implementation
+will have favourable effects on economic activity and
+boost tax revenues, terms of trade losses associated
+with the hardening of international crude prices could
+restrict fiscal space. Meanwhile, sizeable outlays on
+agriculture and infrastructure will impose pressure
+
+on revenues, necessitating adherence or even over-
+achievement of disinvestment targets that are in
+
+some sense autonomous to the decision to divest and
+contingent upon market conditions.
+Turning to revenues, GST collections could
+benefit from delayed buoyancy as the system stabilises
+9
+A2 + FL includes all expenses in cash and kind on account of hired labour
+including human, bullock, machine, seed, insecticides, pesticides, manure,
+fertilizers, irrigation charges and miscellaneous expenses and imputed costs
+of family labour (FL). C2 includes A2+FL costs as well as imputed costs of
+owned land and interest on owned fixed capital.
+
+article
+
+RBI Bulletin April 2018 103
+Union Budget 2018-19: An Assessment
+
+and this could encourage further reforms in the form
+of moving towards a simpler and more equitable
+rate structure. The increase in customs duties on
+selected items is essentially a revenue raising effort.
+On direct taxes, while the proposal to extend the
+rate of 25 per cent to companies with turnover up to
+`2.5 billion will entail revenue losses, the benefit to
+MSMEs from the supportive tax regime could increase
+buoyancy and compliance. The surge in the number
+of tax assesses, especially new ones, augurs well for
+raising the tax-GDP ratio to at least the levels of peers.
+Against this background, achieving the disinvestment
+target assumes crucial importance and will warrant
+a strategic approach that takes advantage of market
+conditions and investor appetite.
+As regards the interaction of the Budget with
+the financial system, recapitalisation of banks could
+lend tailwinds to the recent recovery in bank credit
+and, in turn, support overall growth. The introduction
+of the Standing Deposit Facility is a big positive for
+macroeconomic and financial stability.
+Finally, the emphasis on the rural economy
+is welcome and it is a step forward in the vision
+of doubling farm incomes by 2022 set out by the
+Government. This would revive rural demand and set
+the stage for a durable upturn in growth. The push
+towards digitisation, delivery of Aadhar enabled public
+services and the focus on employment will make the
+revival of growth inclusive and equitable.

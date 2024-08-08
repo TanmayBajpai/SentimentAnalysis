@@ -1,0 +1,108 @@
+6/2021 Avoiding a self-fulfilling low-inflation trap
+https://www.ecb.europa.eu/pub/economic-research/resbull/2021/html/ecb.rb210624~379f760e31.en.html 1/5
+24 June 2021 · RESEARCH BULLETIN NO. 85
+Avoiding a self-fulfilling low-inflation trap
+By [ ]
+A low-inflation trap is a situation where both actual and expected inflation are firmly below the central
+bank’s target and nominal interest rates are close to or at their lower bound. The concept is often used to
+characterise Japan’s quarter-century of very low, and often negative, inflation.[ ] More recently, persistent
+inflation shortfalls across the industrialised world have raised concerns that other jurisdictions, too, may
+be on the verge of getting caught in a Japanese-style low-inflation trap. Our new research shows how
+fiscal policy can help guard economies against this fate.
+Low-inflation trap – a self-fulfilling prophecy?
+Japan’s experience suggests that once an economy is stuck in a low-inflation trap, it is difficult to escape.
+The country has so far failed to reflate its economy, in spite of multifaceted monetary policy stimulus
+programmes launched over the past 25 years.
+A potential reason for the persistence of the low-inflation environment is that it can involve elements of a
+self-fulfilling prophecy.[ ] That is, inflation is low because the private sector believes that inflation will
+remain low in the future, and the lower bound on nominal interest rates prevents the central bank from
+lowering interest rates enough to invalidate these pessimistic beliefs.[ ]
+Empirical evidence suggests that such pessimistic expectations have indeed been an important driver of
+the low-inflation environment in Japan.[ ] In a recent paper (Nakata and Schmidt, 2021), we study
+implications of such self-fulfilling dynamics for the design of macroeconomic stabilisation policy.
+Conceptual framework
+The analysis is based on a New Keynesian model of inflation. The private sector is made up of
+households and goods-producing firms, and the public sector consists of a central bank and a fiscal
+authority. The central bank sets the short-term nominal interest rate, and the fiscal authority controls the
+level of government spending, which is financed by current and future taxes. The two policy authorities
+are assumed to act under discretion in the sense that they periodically readjust their decisions.[ ] Both the
+private and the public sector are forward-looking, that is, their expectations about future economic
+conditions affect their decisions.
+In our model, occasional declines in people’s confidence can, collectively, drag the economy into a lowinflation trap.[ ] Chart 1 provides a graphical illustration. It casts the model in terms of an aggregate
+supply (AS) curve and an aggregate demand (AD) curve, assuming for now that the role of fiscal policy as
+a stabilisation tool is limited. The AS curve is upward-sloping – an increase in demand creates inflationary
+pressures. The AD curve has a kink. To the left of the kink (shaded area), the lower bound constraint is
+binding and the AD curve is upward-sloping – at the lower bound, an increase in inflation lowers the real
+interest rate and stimulates demand. To the right of the kink (non-shaded area), the lower bound
+constraint is slack and the AD curve is downward-sloping – away from the lower bound, an increase in
+inflation causes the central bank to raise nominal interest rates more than one-for-one with inflation,
+leading to an increase in the real interest rate and downward pressure on aggregate demand.
+Sebastian Schmidt 1
+2
+3
+4
+5
+6
+7
+6/2021 Avoiding a self-fulfilling low-inflation trap
+https://www.ecb.europa.eu/pub/economic-research/resbull/2021/html/ecb.rb210624~379f760e31.en.html 2/5
+There are two intersections of the AS and AD curves, reflecting two distinct equilibria. At point A, the
+output gap is negative, so the economy is performing below its potential, and inflation is below the central
+bank’s target. That is the self-fulfilling low-inflation trap equilibrium. At point B, the output gap is closed,
+meaning the economy is performing well, and inflation is at target. That is the benign equilibrium without a
+self-fulfilling low-inflation trap. In our model, the central bank alone is unable to influence whether the
+economy is in the low-inflation trap equilibrium or in the benign equilibrium. This naturally raises the
+question: can fiscal policy help to eliminate the low-inflation trap equilibrium and steer the economy
+towards the benign equilibrium?
+A fiscal escape route?
+In Nakata and Schmidt (2021), we show how a fiscal authority geared towards macroeconomic
+stabilisation can prevent an economy from falling into a self-fulfilling low-inflation trap. Key to this result
+are that:
+Chart 1
+The threat of a self-fulfilling low-inflation trap
+Notes: The chart shows aggregate supply and aggregate demand curves when confidence is low, and there is a
+small positive probability that confidence resumes in subsequent periods. The shaded area indicates pairs of values
+for inflation and the output gap for which the lower bound on interest rates is binding. The output gap is the difference
+between the economy’s actual output and potential output. denotes the central bank’s inflation target. π
+*
+ fiscal policy is able to affect economic activity and inflation;
+government spending is not constrained in the way interest-rate policy is constrained by a lower 
+bound.
+6/2021 Avoiding a self-fulfilling low-inflation trap
+https://www.ecb.europa.eu/pub/economic-research/resbull/2021/html/ecb.rb210624~379f760e31.en.html 3/5
+In our model, the fiscal authority raises government spending when the lower bound on nominal interest
+rates becomes binding. The size of the fiscal stimulus increases with the severity of the economic
+downturn and the inflation shortfall. To rule out the self-fulfilling low-inflation trap in the model, the fiscal
+authority’s response to changes in economic conditions at the lower bound has to be sufficiently elastic –
+in principle, the fiscal authority has to be willing to raise government spending by whatever amount is
+needed to more than offset the effects of a possible drop in private sector confidence.[ ]
+Chart 2 shows that when the private sector expects the fiscal authority to respond decisively enough, the
+only equilibrium is the benign one. The AD curve to the left of the kink becomes flatter than the AS curve.
+When the fiscal authority responds with an aggressive increase in government spending, there is a much
+smaller fall in aggregate demand in response to any decline in inflation. As a result, the AS and AD
+curves do not intersect in the region where the lower bound is binding. The only remaining intersection is
+at point B, where the economy is in the benign equilibrium, characterised by inflation at target, a closed
+output gap, and nominal interest rates above their lower bound.
+In the model, the mere presence of a fiscal authority that is credibly pursuing the above approach is
+enough to anchor expectations, so no actual policy intervention is needed. This is unlikely to work in
+practice. More likely, a fiscal authority would have to actually take action on the right scale to prevent an
+economy from getting caught in a self-fulfilling low-inflation trap.
+Conclusion
+8
+Chart 2
+Avoiding a self-fulfilling low-inflation trap through fiscal policy
+Notes: See Chart 1.
+6/2021 Avoiding a self-fulfilling low-inflation trap
+https://www.ecb.europa.eu/pub/economic-research/resbull/2021/html/ecb.rb210624~379f760e31.en.html 4/5
+Standard models of inflation that are widely used by academics and policy institutions predict that a bout
+of economic pessimism can become self-fulfilling, dragging the economy into a low-inflation equilibrium.
+However, these models also predict that policymakers are not reduced to inaction. To steer an economy
+away from a low-inflation trap, policymakers require both the willingness and the tools to act accordingly.
+In our model, we find that when monetary policy has run out of room for interest-rate cuts, decisive
+counter-cyclical fiscal policy protects the economy from the low-inflation equilibrium.
+Following this policy prescription in practice might be particularly difficult in a monetary union like the euro
+area, that consists of a supranational central bank and many decentralised fiscal authorities. First, some
+euro area countries have high public debt levels. Second, timely coordination among national fiscal
+stabilisation policies can be difficult to achieve and its aggregate effect can be hampered by small
+international spillovers. Therefore, preventing self-fulfilling low-inflation traps could be another reason to
+create a central fiscal capacity in Europe.

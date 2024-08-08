@@ -1,0 +1,440 @@
+ARTICLE
+RBI Bulletin June 2020 35
+Market Financing Conditions for NBFCs:
+Issues and Policy Options
+by end September-20192
+, though there has been some
+moderation post Infrastructure Leasing & Financial
+Services (IL&FS) event. Over time, NBFCs have also
+become deeply intertwined with other categories
+of financial institutions. Banks are a key source of
+credit for NBFCs. The Reserve Bank of India’s (RBI)
+regulations making credit to NBFCs for on-lending
+to certain specific sectors, eligible for classification
+as priority sector lending have also incentivised the
+flow of credit from banks to NBFCs. The reliance of
+NBFCs on market-based instruments, like corporate
+bonds and commercial paper (CPs), to meet their
+financing needs has also grown and stands at about
+31 per cent of their total liabilities at end-December
+20193
+. Mutual funds, especially debt funds, are one of
+the major investors in market instruments issued by
+NBFCs: mutual funds account for 61 per cent of total
+outstanding commercial papers issued by NBFCs as at
+end-March, 20204
+.
+Post IL&FS, however, market financing conditions
+for NBFCs became challenging. Action in terms of
+rating downgrades, intensive investor scrutiny and
+enhanced regulatory oversight were instrumental
+in bringing about greater market discipline, with
+the better rated and better performing companies
+continuing to have relatively easy access to market
+financing, while those with asset-liability mismatch
+(ALM) issues and/or asset quality concerns were
+subjected to higher borrowing costs (Financial
+Stability Report, RBI, June 2019). This period also saw
+an increase in offshore borrowing due to difficulties
+in raising funds domestically. These financing
+conditions got further affected in the wake of the
+collapse of a large housing finance company during
+2019. In more recent times, the disruptions caused
+Market financing conditions for non-banking
+financial companies (NBFCs), have become more
+challenging in recent times, due to COVID-19 related
+disruptions, and developments in the mutual fund sector,
+in an environment of heightened risk aversion and
+differentiation between entities, based on their perceived
+risk profile. Further policy interventions may be needed
+to ensure flow of funds to credit-worthy NBFCs,
+especially small and medium-sized ones and to minimise
+systemic risks.
+Introduction
+Non-banking financial companies play an
+important role in promoting inclusive growth in the
+country, by catering to the diverse financial needs of
+customers not having access to bank finance. NBFCs
+in India appear to be substituting for direct lending by
+banks in the non-urban parts of the Indian economy
+(Acharya et al., 2013). In recent years, NBFCs have
+also been a significant source of credit to the micro,
+small and medium enterprises (MSMEs) sector,
+which accounts for about 29 per cent of India’s
+GDP1
+. Further, specialised NBFCs have also played
+an important role in infrastructure development by
+providing long term financing to this sector.
+The significance of NBFCs in the Indian financial
+landscape has increased during the past years, with
+their combined assets expanding from `14.5 lakh
+crore as at end March-2014 to above `32 lakh crore
+* This article is prepared by Rituraj, M Jagadeesh, Abhishek Kumar and
+Amit Meena of Financial Markets Regulation Department, Reserve Bank of
+India. The authors are grateful to Saswat Mahapatra for valuable guidance.
+The views expressed in this article are those of the authors and do not
+represent the views of the Reserve Bank of India. The analysis is based on
+data upto end April 2020.
+1 Annual Report of Ministry of MSMEs, 2018-19.
+Market Financing Conditions
+for NBFCs: Issues and Policy
+Options*
+2 Various issues of Report on Trend and Progress of Banking in India.
+3 RBI staff calculation for top 100 NBFCs from RBI supervisory returns.
+Data as on December 2019.
+4 SEBI data and RBI staff calculation.
+ARTICLE
+36 RBI Bulletin June 2020
+Market Financing Conditions for NBFCs:
+Issues and Policy Options
+by COVID-19 outbreak have led to apprehensions
+that credit profiles of NBFCs could deteriorate, given
+the moratorium extended by NBFCs on their assets,
+as well as the overall environment of heightened
+risk aversion. Recent developments in the mutual
+fund industry, which is one of the major source of
+funding for NBFCs, have also led to apprehensions
+that NBFCs may face rollover risks.
+In this milieu, this article examines the impact of
+recent events on the financing conditions of NBFCs.
+It attempts to assess their impact on the ability of
+NBFCs to continue to raise funds from the markets
+to meet their repayment obligations and other
+funding needs. The analysis is restricted to NBFCs’
+market liabilities and does not factor in the impact
+(amelioratory or otherwise) of their bank borrowings,
+given that bank credit to NBFCs increased by a robust
+29 per cent during 2018-19 and by 26 per cent during
+2019-205
+. Section II discusses developments in
+market-based borrowing by the top 100 NBFCs in
+terms of asset size. Sections III and IV examine the
+changes in financing conditions in the corporate
+bond and CP markets, respectively. The impact of
+recent measures by the RBI to channel liquidity to
+this sector is set out in Section V. Section VI concludes
+the study.
+II. Developments in Market Borrowing by Top 100
+NBFCs
+As on April 30, 2020, outstanding market
+borrowings for top 100 NBFCs, through CPs and bonds
+(both onshore and offshore), stood at around `12.6
+lakh crore, marginally higher than `12.5 lakh crore
+a year before. Monthly market borrowings, during
+the past one year, remained in the range of `60,000
+crore to `1,00,000 crore. In April 2020, however,
+such borrowings fell to less than `33,000 crore
+(Chart 1). There were increased offshore borrowing
+too, especially in the last quarter of FY 2019-20.
+Consequently, over the last one year, the share of
+foreign currency bonds issued by NBFCs in their total
+outstanding market liabilities has increased even as
+the share of CPs has reduced (Chart 2). The share
+of outstanding corporate bonds remained largely
+unchanged. 5 As per data on sectoral deployment of banks credit released by RBI.
+Chart 1: Trend in Market Borrowings
+Top 100 NBFCs were identified based on asset-size computed from RBI supervisory returns;
+Source for CP data: F-TRAC platform; Source for bonds data: Bloomberg
+ARTICLE
+RBI Bulletin June 2020 37
+Market Financing Conditions for NBFCs:
+Issues and Policy Options
+An analysis of the maturity pattern of outstanding
+market liabilities of NBFCs shows that, on April
+30, 2020, ` 1.08 lakh crore (or close to 9 per cent of
+total outstanding market borrowings) is expected to
+mature within the next three months, while another
+` 1.6 lakh crore (or 13.4 per cent of total outstanding
+market borrowings) will become due for repayment
+in the following nine months (Chart 3). Some NBFCs
+could face challenges in rolling over / nancing the
+redemption requirements at competitive rates, given
+the current nancing conditions for the sector as set
+out in Section III and IV, and the overall economic
+environment. To a certain extent, regulatory/
+liquidity measures by the Reserve Bank, increased
+nancing by banks and recent decisions by some
+banks to extend moratorium to borrowings by NBFCs
+may alleviate these challenges.
+III. Corporate Bonds and NCDs
+Corporate bonds and non-convertible debentures
+(NCDs) account for 29 percent 6
+ of the total liabilities
+of NBFCs indicating the crucial role of this market
+in providing funding to the sector. The nancing
+conditions for NBFCs through the bond market
+have been analysed through various metrics, viz.,
+share of the sector in overall issuances; spread
+over Government securities (G-Secs) for AAA and
+lower rated NBFCs; and bond rollover ratio (Table 1
+and 2).
+6 RBI supervisory (provisional) returns data for top 100 NBFCs based on
+asset-size. Data as on December 31, 2019.
+Chart 3: Maturity Prole of Market Borrowings
+Top 100 NBFCs were identied based on asset-size computed from RBI supervisory
+returns;
+Source for CP data: F-TRAC platform;
+Source for bonds data: Bloomberg
+Data as on April 30, 2020
+Chart 2: Outstanding Borrowings
+(at month-end)
+Top 100 NBFCs were identied based on asset-size computed from RBI supervisory
+returns;
+Source for CP data: F-TRAC platform;
+Source for bonds data: Bloomberg
+Table 1: Developments in Corporate Bond Market
+Conditions for NBFCs (Public and Private)
+NBFCs Sep19
+Oct19
+Nov19
+Dec19
+Jan20
+Feb20
+Mar20
+Apr20
+Share in total corporate
+bond issuance 35% 12% 43% 25% 24% 43% 31% 20%
+3Y Spread in bps
+(AAA over G-Sec) 129 154 129 119 95 110 156 198
+3Y Spread in bps
+(AA over G-Sec) 210 228 212 190 174 185 226 274
+Bond rollover ratio
+(Issuance/redemption) # 1.51 1.32 1.68 1.44 2.45 3.53 1.01 1.01
+Source: Prime database, Bloomberg.
+Red color indicates deteriorating condition in the month compared to one
+year moving average while green indicates improvement in the condition.
+#includes bonds (both INR and FCY bonds) issued by top 100 NBFCs
+38
+Market Financing Conditions for NBFCs:
+Issues and Policy Options
+The nancing conditions in the corporate
+bond market, which have remained under stress
+since the IL&FS event, gradually stabilised in the
+period December 2019 to February 2020 aided
+by lower interest rates, higher banking system
+liquidity and liquidity support measures such as
+Long Term Repo Operations (LTRO) by the Reserve
+Bank. This is illustrated by the green cells for
+* CP Outstanding as on Month end based on RBI staff calculation.
+Chart 4: CP Outstanding - Category-wise
+Table 2: Developments in Corporate Bond Market
+Conditions for NBFC-Private
+(in per cent)
+NBFC-Pvt Sep19
+Oct19
+Nov19
+Dec19
+Jan20
+Feb20
+Mar20
+Apr20
+Share in total issuance 13 4 19 13 10 26 11 5
+Share in total issuances
+by all NBFCs 38 36 45 51 42 61 37 26
+Share of AAA rated bonds
+in total issuances by all
+NBFCs
+23 17 31 28 38 41 18 26
+Share of AA+ and below
+rated bonds in total
+issuances by all NBFCs
+15 20 14 23 4 20 20 0
+Source: Prime database, Bloomberg
+Red color indicates deteriorating condition in the month compared to one
+year moving average while green indicates improvement in the condition.
+the month of February 2020. Rationalisation of
+External Commercial Borrowing (ECB) directions
+by the RBI in January 2019 also facilitated overseas
+capital access for NBFCs and helped in diversifying
+their funding avenues. However, post the outbreak
+of COVID-19, market conditions for NBFCs have shown
+signs of deterioration, with a relatively greater impact
+on nancing conditions for NBFC-Pvt - their share
+in overall corporate bond issuances fell sharply to 5
+per cent in April 2020 from 26 per cent in February
+2020.
+IV. CP Market
+Post the developments related to IL&FS, total
+outstanding CPs, which stood at ` 6.88 lakh crore as
+on July 31, 2018, declined by 39 per cent to ` 4.17
+lakh crore as on April 30, 2020 primarily in the case
+of NBFC-Pvt. and Housing Finance Companies (HFCs).
+Issuances by corporates and All India Financial
+Institutions (AIFIs) remained largely unchanged.
+Outstanding CPs of NBFC-Pvt. in particular, fell by 71
+per cent (from ` 2.22 lakh crore as on July 31, 2018 to
+` 64,253 crore as on April 30, 2020) (Chart 4).
+ARTICLE
+RBI Bulletin June 2020 39
+Market Financing Conditions for NBFCs:
+Issues and Policy Options
+IV.1 CP Issuance of NBFCs
+CP issuances of corporates and AIFIs category of
+issuers, as a percentage of the total issuance, has been
+increasing steadily (Chart 5). However, the share of
+NBFC-Pvt. issuances in total issuances has fallen
+sharply, especially during February and March 2020.
+IV.2 Lower Rated NBFCs
+Even as the overall issuances of CPs by NBFCs have
+declined in recent months, there has been a sharper
+reduction in issuances by lower rated NBFCs, possibly
+a manifestation of the increasingly challenging
+nancial conditions faced by them (Chart 6).
+* Monthly CP issuances have been considered based on RBI staff calculation. CP issuances by NBFCs for nancing of IPOs in March 2020 have been excluded as they are
+in the nature of very short tenors.
+Chart 5: CP Issuances - Share of Top Category Issuers
+* For the purpose of better analysis of the pricing of issuers, the long term-ratings of the issuers have been considered. Based on RBI staff calculation.
+Chart 6: CP Issuances by NBFCs- Percentage Share as Per Credit Rating
+8
+40
+Market Financing Conditions for NBFCs:
+Issues and Policy Options
+Mutual funds, which are the largest investors in
+the CP market, except during the month of January
+and March 2020 when banks were major subscribers,
+have brought down their share in AA and below rated
+NBFCs from 94 per cent in December 2019 to 74 per
+cent in April 2020 (Chart 7).
+* For the purpose of analysis, the long-term ratings of the issuers has been considered. The monthly weighted average yield of the issuances of NBFCs with a weighted
+average tenor of 3 months (72 days to 115 days issuance tenor as per FBIL classication) has been considered. The corresponding T-bill rates are the monthly average of
+FBIL 3 month T-bill rates. Chart based on RBI staff calculation.
+Chart 8: 3 Month CP Issuance Rate of NBFCs and Spread Over T-bills
+Chart 7 Share of Mutual Fund Investment in
+CPs of NBFCs - Ratings wise
+* For the purpose of analysis, the long-term ratings of the issuers has been
+considered. Based on RBI staff calculation.
+IV.3Pricing of CP Issuances
+In the recent period, the issuance rates for
+AAA rated NBFCs have moderated in line with the
+softening of policy rates. Yields for lower rated NBFCs
+have also softened but not commensurately. Between
+January and April 2020, yields on CP issuances by
+AAA rated corporates eased, on an average, by 96
+basis points while yields for lower rated issuances
+softened by only 20 basis points over the same
+period. This was accompanied by a sharp increase in
+the spread of AA and below rated papers over the
+corresponding tenor Treasuy-Bills in the month of
+April 2020 (Chart 8).
+V. Steps by RBI
+Beginning March 2020, the Reserve Bank
+undertook Targeted Long Term Repo Operations
+(TLTROs) of three years tenor for a total amount of up
+to ` 1 lakh crore at a oating rate linked to the policy
+repo rate, with a view to easing liquidity constraints
+and de-stressing markets for corporate bonds and CPs.
+Liquidity availed under the scheme by banks had to
+be deployed in investment grade corporate bonds, CPs
+and NCDs. Investments under this facility are also
+eligible to be classied as held to maturity (HTM) even
+ARTICLE
+RBI Bulletin June 2020 41
+Market Financing Conditions for NBFCs:
+Issues and Policy Options
+in excess of 25 per cent of total investment permitted
+to be included in the HTM portfolio. Furthermore,
+their exposures under this facility would not be
+reckoned under the large exposure framework.
+TLTROs had a salutary impact on the market. In
+response to these auctions, there was a signicant
+uptick in the corporate bond market and a moderation
+in the liquidity pressures faced by various entities
+including NBFCs. The weighted average rate of
+issuances in the 2-3 years bucket was also lower by
+around 150 basis points in April 2020 (Table 3). In
+respect of issuances by NBFCs, the weighted average
+rate of issuances in the bucket softened by around
+85 bps. Around 74 per cent of the total issuance in
+April 2020 was in 2-3 years bucket as compared to
+around 41 per cent and 24 per cent of issuance being
+in the 2-3 years bucket during February and March
+2020, respectively (Chart 9).
+Corporates (including banks) were the major
+category of issuers, followed by NBFCs and HFCs
+during March and April 2020. However, like in previous
+months, most issuances in March-April 2020 were by
+AAA rated entities and public sector undertakings
+(Chart 10), indicating that the bulk of the benet of
+TLTROs accrued to higher rated entities. In the CP
+market, issuances were lower across all categories in
+April as issuers appeared to prefer raising longer tenor
+bonds and lock-in the lower rates for a longer time to
+avoid roll-over risks.
+In order to ensure ow of liquidity to small
+and mid-sized corporates, including NBFCs and
+micro nance institutions (MFIs), the Reserve Bank
+decided to conduct TLTRO 2.0 for an aggregate
+amount of ` 50,000 crore. The funds availed by banks
+under TLTRO 2.0 should be invested in investment
+grade bonds, CPs, and NCDs of NBFCs, with at least
+50 per cent of the total amount availed going to
+small and mid-sized NBFCs and MFIs. However,
+the response to these auctions has been less than
+encouraging, with the bid to cover ratio for the
+rst tranche of TLTRO 2.0 for a notied amount of
+` 25,000 crore at 0.5.
+Table 3: Weighted Average Rate of Issuance in
+Corporate Bonds (in per cent)
+Tenor Dec-19 Jan-20 Feb-20 Mar-20 Apr-20
+1 year 7.24 7.38 8.43 7.59 6.90
+2-3 years 8.16 7.48 7.54 8.52 7.05
+4-6 years 7.93 7.39 7.35 7.39 7.38
+7-10 years 7.96 7.72 7.53 7.37 7.99
+Above 10 years 8.14 8.78 7.24 7.72 6.80
+Source: Based on NSE and BSE EBP data.
+Chart 9: Tenor-wise Issuances in
+Corporate Bonds
+Source: Based on NSE and BSE EBP data and RBI staff calculations.
+Chart 10: Rating-wise Issuances in
+Corporate Bonds
+Source: Based on NSE and BSE EBP data.
+42
+Market Financing Conditions for NBFCs:
+Issues and Policy Options
+VI. Conclusion
+Going forward, there are signicant near-term
+redemptions arising out of scheduled repayments on
+market borrowings through CPs and corporate bonds
+by NBFCs. The moratorium extended by NBFCs/HFCs
+on their assets, coupled with the overall environment
+of risk aversion, could impact the cashows for the
+sector. The possibility of liquidity pressures remaining
+elevated for some of these NBFCs, especially those
+with high dependencies on market borrowing, cannot
+be ruled out. To a certain extent, this gap could be
+bridged through increased bank borrowing and/or
+group support by some NBFCs. However, one of the
+major lenders to NBFCs – the mutual fund industry –
+is also facing challenges due to the uncertain economic
+outlook and the impact of closure of a few debt funds.
+In this context, the possibility of the NBFC sector, at
+least some of the NBFCs, facing headwinds in meeting
+their funding requirements through market borrowing
+cannot be ruled out.
+Measures undertaken by the Reserve Bank have
+considerably eased the stress in market conditions;
+however, stress is still visible in certain areas of the
+market. This appears to suggest that the problem is
+not just of liquidity but, possibly, of expectations of
+deterioration in credit quality on account of COVID-19
+related disruptions.
+The emerging developments indicate a need
+for policy interventions, which go beyond liquidity
+related measures to credit related ones. There is a
+need for ensuring ow of credit/liquidity to NBFCs
+with concrete credit backstop measures to address the
+risk aversion in the system, bridge the trust decit
+and restore condence.
+At the time of this article going to press,
+Government of India, as part of an economic stimulus
+package, has announced full and partial guarantees
+on investments in debt securities issued by NBFCs
+under two different schemes. The rst scheme is a
+` 30,000 crore special liquidity facility for NBFCs and
+HFCs, under which a Special Purpose Vehicle (SPV)
+would acquire investment grade debt of short duration
+(residual maturity of upto 3 months) of eligible
+NBFCs / HFCs. Through another scheme, which is an
+extension of already existing Partial Credit Guarantee
+Scheme (PCGS), Government would guarantee up
+to 20 percent of rst loss for purchase by public 

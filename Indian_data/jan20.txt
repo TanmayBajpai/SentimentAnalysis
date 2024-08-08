@@ -1,0 +1,546 @@
+Regulation and Financial
+Stability*
+N.S.Vishwanathan
+
+*
+The speech was delivered by Shri N.S.Vishwanathan, Deputy Governor,
+Reserve Bank of India at the Special Session of Merchant Chamber of
+Commerce and Industry on October 13, 2017 in Kolkata.
+
+SPEECH
+
+6 RBI Bulletin January 2018
+Regulation and Financial Stability
+
+system, the extent of interconnectedness and possible
+sources of vulnerabilities that could impact fi nancial
+stability.
+Systemic risk assessment is crucial to understand
+vulnerabilities of the fi nancial system. This meant that
+apart from ensuring the strength of fi nancial institutions,
+it is necessary to assess the resilience of the system to
+various economic shocks. Globally, therefore, Central
+Banks embarked on system-wide stress tests under
+plausible but severe economic conditions. The RBI
+undertakes such stress tests and the results are
+published in the Financial Stability Report. The Reserve
+Bank also requires banks to conduct stress tests and
+use the results for their internal capital assessment.
+I began by saying that a set of strong fi nancial
+institutions may not necessarily lead to financial
+stability. While strong and resilient fi nancial institutions
+may not be suffi cient condition for fi nancial stability,
+it is a necessary condition. It is, therefore, well
+recognised that a resilient financial system, more
+particularly banking system, would be critical for
+fi nancial stability and to an extent acts as a bulwark
+against fi nancial instability arising from other channels.
+As such, apart from various other efforts to prevent the
+fi nancial crisis of the kind witnessed in 2007-08, the
+G20 mandated the Basel Committee for Banking
+Supervision (BCBS) to put in place appropriate regulatory
+framework that helps the banking system to be strong
+and resilient. The crisis called for changes in the global
+financial architecture as also the institutional
+architecture for making regulations. This resulted in
+the BCBS being expanded to cover the G20 countries
+which made India a member of the BCBS and the
+Financial Stability Board. No doubt, as Dr Subba Rao
+has mentioned in his famous book, India and other
+EME nations are generally perceived to have a vote but
+not a voice. But slowly these are changing and the EMEs’
+views are also being heard to an extent. The BCBS, in
+response to the mandate given by the G20 developed
+
+new regulations which are now commonly referred to
+as Basel III regulations.
+To understand the basic foundations of the
+changes to the regulatory framework that the Basel III
+rules put in place, it would be useful to delineate the
+fundamental issues that characterised the fi nancial
+system during the crisis in advanced economies.
+(a) High leverage of the banking system was
+masked by high CRAR. The banks reported
+high CRAR by bundling low quality assets
+into highly rated securitised papers which
+enabled them to report a high CRAR while
+remaining over leveraged.
+(b) Excessive dependence on market borrowings
+to fund and refi nance their assets; supply of
+liquidity dried when mortgage backed
+securities were downgraded due to defaults
+in the underlying assets.
+(c) Use of subsidiaries (in a way shadow banking
+entities) to undertake activities that might
+have been more regulated if carried out
+within the bank, thus creating regulatory
+arbitrage.
+(d) The loss absorbing capacity of the capital was
+weak given that at least 50 per cent of the
+capital could be non-loss absorbing in nature
+(Tier II).
+(e) Too big to fail banks required bailout with
+public funds. Therefore, there had to be a
+cost for an entity becoming too large and
+interconnected.
+(f) The reliance on credit ratings resulted in
+potential under-capitalisation.
+(g) Many banks had adopted internal rating
+based system (IRB) for determining their
+capital requirements for credit risk; the IRB
+essentially depended on models. Therefore
+the entire balance sheet was exposed to
+model risk.
+
+SPEECH
+
+RBI Bulletin January 2018 7
+Regulation and Financial Stability
+
+In this background, let us look at the major changes
+that Basel III brought about:
+1. It was found necessary that the quality and
+quantity of capital should be improved to
+enable the banks and the banking system to
+have higher loss absorbency and greater
+resilience to emerging risks. Therefore, the
+regulatory capital regime brought in three
+fundamental changes:
+(a) It was prescribed that out of 8 per cent
+CRAR, at least 4.5 per cent shall be
+common equity Tier-I with complete loss
+absorbency.
+
+(b) Two additional buffers in the form of
+capital conservation buffer of 2.5 per
+cent and counter cyclical capital buffer
+of another 2.5 per cent were prescribed.
+Capital conservation buffer could be run
+down in times of crisis with restriction
+on earnings distribution.
+
+(c) The banks were allowed to issue
+additional Tier I (AT1) bonds but with
+stronger loss absorbing features.
+2. A framework to identify too big to fail banks
+globally and domestically was drawn up. The
+GSIBs (globally systemically important banks)
+and the DSIBs (domestically systemically
+important banks) were required to hold
+varying degrees of additional capital with a
+view to avoiding use of public funds for their
+revival, in case they fail and also to prevent
+excessive growth in their balance sheet. The
+GSIBs were also required to issue TLAC (total
+loss absorbing capacity) instruments which
+can be converted into equity in times of need.
+3. As I mentioned earlier, one of the features
+of the banking system during the crisis was
+
+excessive dependence on market borrowings
+for funds. The fi rst trigger of the crisis was
+inability of one of the banks to fi nance its
+liabilities because of the downgrading of the
+underlying assets. Strangely at that time,
+there were no liquidity standards globally
+except on the need to have an asset liability
+management system. The BCBS realised that
+lack of liquidity could singe a bank and hurtle
+it towards insolvency. Therefore, liquidity
+standards were prescribed as part of the Basel
+III reforms. These are - liquidity coverage
+ratio (LCR) and the net stable funding ratio
+(NSFR). The LCR ensures that the bank had
+adequate high quality liquid assets to meet
+demand on its liabilities in stressed conditions
+for a period of 30 days. The NSFR required
+that banks hold a minimum amount of stable
+funding based on the liquidity characteristics
+of their assets and their activities over one
+year horizon. This will reduce funding and
+roll over risk. Thanks to our SLR requirements,
+the Indian banks do not have any diffi culty
+in meeting the LCR requirements.
+4. The density of highly rated paper on the asset
+side enabled banks to mask their high
+leverage with high CRAR. With the quality of
+the assets getting downgraded, the inadequacy
+of capital came to the fore. With a view to
+obviating this possibility, the Basel Committee
+prescribed a leverage ratio. What it meant is
+that even if the entire assets of a bank were
+zero risk weighted, which under the sole
+CRAR regime would have enabled infi nite
+leverage, there would be constraint now.
+5. Several regulatory changes were brought on
+securitisation. The changes involved laying
+down a framework for simple, transparent
+and standardised (STS) securitisation. Higher
+
+SPEECH
+
+8 RBI Bulletin January 2018
+Regulation and Financial Stability
+
+capital was prescribed for securitisation
+transaction that do not conform to STS
+framework with a view to prevent non-true
+sale being taken out of the banks’ balance
+sheet and also for strengthening capital
+requirement for such deals.
+6. The Basel Committee is also moving towards
+eliminating, as far as possible, use of internal
+model based approach to determine capital
+requirement. This is happening in three ways
+(a) Barring the use of IRB for several types of
+exposures; (b) strengthening the standardised
+approach and (c) prescribing the regulatory
+fl oor where IRB is used, so that the possibility
+of under capitalisation on account of risk
+from the use of models is minimised.
+Apart from these, there were other changes
+including on market risk, which I believe I
+need not elaborate here.
+Financial stability cannot be achieved through
+mere strong regulations. They need to be
+supplemented by effective supervision. In
+the pre-crisis days a light touch regulatory
+and supervisory approach was in vogue in
+many jurisdictions. As such, regulation were
+more ‘comply or explain’ and supervision
+less intense. These light touch regulatory and
+supervisory practices were also seen as a
+reason for weakness in the banking system.
+The global crisis changed all that and there
+is a move towards more hands-on regulation
+and intense supervision. In India, though,
+the Reserve Bank has been hands-on, both
+for regulation and supervision much before.
+7. We have adopted Basle III regulations in India
+and in line with the global time-table, have
+required the banks to migrate to Basle III fully
+by March 31, 2019. Whenever we talk of
+
+banking regulation in India, there is a view
+expressed that we apply stricter norms than
+what global standards require. Among the
+issues raised to buttress this contention, is
+the oft repeated reference to the stipulation
+of 9 per cent CRAR as opposed to 8 per cent
+specifi ed by the Basel rules. I must clarify
+here, as brought out in detail in one of the
+Working Papers1
+
+, this is not really so.
+Fundamentally, among other factors, the one
+percentage point higher CRAR is also to
+calibrate the regulatory capital to the Indian
+conditions, having regard to the features of
+exposures assigned a particular credit rating
+being different from those of similarly rated
+exposures internationally. Let me point out
+here that the regulatory capital is essentially
+for meeting unexpected loss. Therefore, such
+a calibration is required. For those interested,
+I would suggest that you please read the
+paper I referred to. Incidentally, the higher
+CET-1 ratio of 5.5 per cent as opposed to 4.5
+per cent, another oft referred ‘deviation’, is
+only a derivative of the 9 per cent CRAR.
+8. Another area where our regulations are
+referred to as steeper than the standards is
+the need to maintain both SLR and LCR. As
+you would be aware, we have gradually
+reduced the SLR and also allowed 11 per cent
+of the SLR to count for LCR as well, thus
+softening the impact. Moreover, we have to
+do this in a calibrated manner particularly
+with a view to avoiding instability arising
+through upward movement in the
+Government securities’ yield if SLR is lowered
+abruptly.
+1
+RBI working paper series 2017 - Risk-weighting under Standardised
+Approach of Computation of Capital for Credit Risk in Basel Framework
+– An Analysis of Default Experience of Credit Rating Agencies in India.
+
+SPEECH
+
+RBI Bulletin January 2018 9
+Regulation and Financial Stability
+
+9. We have required banks to implement the
+leverage ratio and have indicated that we
+would be monitoring them at a ratio of 4.5.
+This is more with a view to enabling banks
+to take corrective actions well before they get
+overleveraged even by the global standards
+as also to mandate banks not to exceed the
+present system wide average leverage ratio.
+10. It is natural for business to move from the
+strongly regulated to the less regulated
+space. Therefore, as the banking system was
+more regulated, fi rms moved into the less
+r e g u l a t e d s p a c e . W h e n f i n a n c i a l
+intermediation happens in a less regulated
+or unregulated environment, even more
+particularly with banks using the subsidiary
+model to do so, they impact the fi nancial
+system substantially. Shadow banking
+entities are defined as financial
+intermediaries involved in facilitating
+creation of credit without being subject to
+regulatory oversight. It can also refer to
+unregulated activities of regulated entities.
+Globally, therefore, the move to intensify
+the micro and macro prudential regulation
+for banks was complemented by an effort
+to get a better handle on the shadow
+banking system. The effort has been in the
+direction of mapping the shadow banking
+entities and containing regulatory arbitrage.
+The Reserve Bank also participates in this
+exercise undertaken by the Financial
+Stability Board and provides necessary
+information to it. The non-banking fi nancial
+companies in the Indian context which
+provide fi nancial intermediation services
+are regulated fairly strongly both in terms
+of minimum capital and the loan delinquency
+recognition.
+
+11. It was also observed that during the crisis,
+the accounting framework, particularly for
+recognition of fair value of financial
+instruments resulted in the financial
+statements not refl ecting true and fair picture
+of the financial institutions. Globally
+therefore, there is a move towards adopting
+international fi nancial reporting standards
+(IFRS) as a basis for recording the balance
+sheet and profi t and loss account. In India
+
+too, we are moving towards adoption of Ind-
+AS as the accounting framework for banks
+
+and we are in dialogue with the stakeholders
+on the way forward.
+12. Of late, vulnerability of fi nancial institutions
+to the threat of cyber risk has grown
+enormously. This has resulted from the use
+of technology by banks gaining momentum
+in the recent past. Susceptibility to cyber risk
+endangers not only a fi nancial institution but
+can have system wide ramifi cations. Cyber
+risks take the form of theft of funds, data,
+corruption of the IT systems, which might
+prevent normal operations. Globally,
+therefore, inadequate cyber security is fl agged
+as a serious threat to financial stability.
+Reserve Bank, realising the importance of
+putting in place a robust cyber risk
+management framework, has issued detailed
+regulations to banks in this regard. Reserve
+Bank has set up an IT subsidiary, Reserve
+Bank Information Technology Pvt. Ltd. to
+assist it to put in place appropriate cyber risk
+management regulations and assess the
+quality of the IT systems of the regulated
+entities as part of the supervisory exercise.
+13. It has been found that in India the NPAs as
+a percentage of total exposure is higher in
+larger accounts. A highly leveraged corporate
+
+SPEECH
+
+10 RBI Bulletin January 2018
+Regulation and Financial Stability
+
+sector will pose systemic risk. Globally there
+is a move to contain large exposure and we
+have aligned our large exposure norms with
+the global standards. Moreover, with a view
+to de-risking the banks’ balance sheets and
+encouraging large borrowers to access the
+capital market, we have provided for higher
+risk weights for larger borrowers in certain
+circumstances.
+14. I referred to the use of macro prudential tools
+for strengthening fi nancial stability. RBI has
+used such tools even before it was fashionable.
+Prescribing higher standard assets
+provisioning and higher risk weights for
+exposure against assets susceptible to market
+bubbles is an example. We have, therefore,
+higher risk weights for capital market
+exposure and commercial real estate,
+additional capital for un-hedged foreign
+currency exposure, etc. Another macro
+prudential tool that is used is the loan to value
+ratio (LTV), particularly in mortgage loans.
+15. The Reserve Bank has also taken a number
+of measures to address systemic risks arising
+out of interconnectedness in the fi nancial
+system. These, inter-alia include -prudential
+limits on aggregate interbank liabilities and
+cross-holdings, restrictions on exposures to
+complex activities and products, monitoring
+of fi nancial conglomerates, monitoring of
+common exposures (sensitive sectors),
+enhancing transparency and risk mitigation
+in OTC transactions through trade repositories
+and Central Counterparties (CCPs) and
+strengthening the regulatory and supervisory
+framework for non-banking fi nancial entities.
+16. When one speaks about the Indian banking
+system, the stressed assets issue comes to
+
+the fore. Undoubtedly, the problem of
+stressed assets in the banking system in India
+in general and the public sector banks in
+particular, is a matter of serious concern. The
+asset quality review undertaken in 2015-16
+enabled a proper recognition of the stress in
+the banks’ balance sheet and now we are in
+the process of providing for them adequately.
+As my colleague Dr Viral Acharya has pointed
+out in his recent lecture2
+
+, there is strong
+evidence of high correlation between bank
+balance sheet strength and credit growth. The
+impact of the weak balance sheet of the PSBs
+is very evident in the form of considerably
+lower growth in credit as compared to private
+sector banks and foreign banks. We are
+examining various ways of strengthening the
+capital of PSBs so that they are able to
+increase their lending and thus, support
+economic growth. Apart from the correlation
+that Dr Acharya referred to, I believe that
+strong balance sheet also enables the bank
+to deal better with stressed assets. Capital
+constraints, apart from other factors, lead to
+delay in recognition of stress or sub-optimal
+re-structuring rather than initiating timely
+action that might provide better value to the
+banking system and economy in general. This
+
+is because, ever-greening, unviable re-
+structuring often postpones the right solution
+
+and attenuates the problem. In this context,
+provisioning system akin to global standards
+based on expected loss model, would be a
+way forward.
+We do see a major push towards resolution of the
+large stressed assets through their reference under the
+Insolvency and Bankruptcy Code (IBC). As you are
+2
+Speech delivered at the 8th R K Memorial Lecture organised by the Indian
+Institute of Banking and Finance at Mumbai on September 7, 2017
+
+SPEECH
+
+RBI Bulletin January 2018 11
+Regulation and Financial Stability
+
+already aware, under the additional powers given to
+the RBI, through amendment to the BR Act, we have in
+June 2017, directed banks to refer 12 cases under IBC
+and a few more thereafter. The 12 cases are under
+various stages under the National Company Law
+Tribunal (NCLT) and we believe a strong insolvency and
+bankruptcy code will improve the credit quality and
+lower the loss given default of the credit portfolio of
+banks. This may take some time but I am sure that
+going forward it will enable the banking system to be
+placed on a fi rmer footing with regard to their resilience
+in general and their readiness to lend further in
+particular.
+In this context again, it is commented that the
+provisioning norms stipulated by the RBI for stressed
+assets or for cases referred under IBC is stiffer than
+required. Let me explain the logic for the provisioning
+requirement for cases referred under IBC. Normally
+cases that are referred under IBC are likely to be
+those which could not be restructured outside the
+IBC. The S4A, which is a scheme for restructuring
+of stressed assets, envisages the minimum
+sustainable debt to be 50 per cent. It is therefore
+only logical that provision made for cases referred
+under IBC is atleast 50 per cent. This is not to say
+that the reference to IBC would result in recovery
+of 50 per cent or less. Provisioning is for expected
+loss and banks can write back in case the recoveries
+are higher than what the provision envisaged.
+Moreover, the provisioning for NPAs by the banks
+in India needs to be substantially higher to be
+comparable with global practices in this regard.
+Before I close, let me respond to a couple of issues
+that were fl agged by the earlier speakers and I have
+not yet covered. There was a reference to the high
+interest rate charged by the bank and a suggestion of
+regulating the same. We must all agree that the days
+of regulator’s specifi ed interest rates are well behind
+us and any move in that direction including in the
+
+form of ‘spreads’ will be market unfriendly. However,
+what we are aiming at, is transparency in interest rate
+determination and proper transmission of Monetary
+Policy decisions. The move from Base Rate to Marginal
+Cost of Funds based Lending Rate (MCLR) was to avoid
+the average masking the marginal changes in the cost
+of funds. However, as pointed out in the ‘Report of
+the Internal Study Group to Review the Working of
+the MCLR System’, external benchmark as the basis
+of determining customers’ interest rate has been
+suggested. This will make interest rate determination
+more transparent. Competition is the only way to
+ensure that the ‘spreads’ are reasonable. On this, as
+you are aware, Reserve Bank recently licenced two
+new Universal Banks and 10 Small Finance Banks
+(SFBs). We have also put the Universal bank licencing
+‘on tap’.
+The second issue was with reference to fi nancing
+for MSMEs. Here again, I would like to point out that
+the Reserve Bank has put in place an ecosystem that
+facilitate fl ow of credit to MSME sector and address
+their fi nancial needs. The licensing of 10 SFBs with a
+mandate to have 50 per cent of their loans to be of
+the ticket size of `25 lakhs and priority sector lending
+(PSL) target of 75 per cent. The Credit Guarantee Fund
+Trust for Micro and Small Enterprises (CGTMSE), the
+specifi c instructions for dealing with stressed assets
+of MSME sector, Trade Receivables Discounting
+System (TReDs), etc., are all part of the ‘MSME
+Finance’ friendly ecosystem that I referred to.
+Ladies and Gentlemen, I will close it here. As I
+began, fi nancial stability is diffi cult to defi ne. In an
+integrated economy, it is diffi cult to determine any one
+source of fi nancial instability. After the global crisis,
+the standard setting bodies moved towards creating a
+strong fi nancial system in general and banking system
+in particular. Since the fi nancial system in India is
+dominated by banks, I have focussed on the global
+regulatory framework for banking system in general
+
+SPEECH
+
+12 RBI Bulletin January 2018
+Regulation and Financial Stability
+
+and how we have implemented it in India. A strong
+banking system will have the resilience to withstand
+financial instability arising from other channels.
+Moreover, the banks need to be strong so that they
+themselves are not the source of fi nancial instability.
+The regulations provide the banking system with
+
+antigens to keep them strong and resilient so that they
+are not weak themselves and also are able to withstand
+fi nancial instability arising from other parts of the
+economy. We, in the Reserve Bank, always work towards
+creating such a banking system through our regulatory
+and supervisory framework.
+Thank you.

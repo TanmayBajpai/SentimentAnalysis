@@ -1,0 +1,144 @@
+article
+RBI Bulletin January 2019 31
+Business Sentiments and Expectations in 2017-18
+expectations index (BEI), which summarises the 
+outlook for the quarter ahead. Empirically, it has 
+been shown that the BEI has statistically significant 
+explanatory power in explaining the behaviour of 
+manufacturing activity in India (Lekshmi and Mall, 
+2015; RBI June 2017). 
+Against this backdrop, the motivation driving this 
+article is two-pronged. First, it seeks to consolidate and 
+distil the key messages emanating from sentiments in 
+the manufacturing sector in 2017-18 that were polled 
+in four rounds of the survey conducted during the 
+year. The focus of interest is to assess by hindsight 
+how closely the survey reflected underlying activity in 
+a year, marked by inflexions in the evolution of GVA 
+in manufacturing and gross fixed capital formation 
+alongside an acceleration in corporate sales growth 
+and a pick-up in capacity utilisation. Second, the article 
+attempts to bring greater precision in predicting the 
+near-term outlook by addressing limitations of the BEI 
+such as time-invariant weighting. Drawing on these 
+efforts, it proposes a dynamic factor index (DFI) which 
+improves forecasting performance in respect of the 
+BEI, at least in nowcasting manufacturing GVA growth 
+and manufacturing WPI inflation. 
+The rest of the article is structured in five sections. 
+Section 2 examines the cross-country experience in 
+business tendency / industrial outlook surveys with a 
+view to place the RBI’s IOS against the perspectives of 
+international practices. Section 3 presents an overview 
+of the stylised facts on key parameters of manufacturing 
+conditions that were surveyed in the IOS during 
+2017-18. Section 4 sets out an alternative approach to 
+forecast/ nowcast manufacturing GVA growth, with 
+efficiency and stability gains, outperforming the BEI 
+in predictive power. Section 5 concludes with some 
+policy perspectives. 
+2. Cross-Country Practices 
+Business tendency / sentiments / outlook / 
+expectations surveys are regularly conducted in 
+This article presents the major findings of the industrial 
+outlook survey (IOS) of the manufacturing sector conducted 
+during 2017-18. The survey revealed a steady improvement 
+in demand conditions with a stable outlook. The sentiments 
+on input costs, especially of raw materials, remained a 
+concern; leading to limited pass-through as reflected by 
+upturn in respect of selling prices. Dynamic factor indices 
+derived from the survey data were found to be useful in 
+tracking the movements of the gross value added (GVA) 
+growth and wholesale price index (WPI) inflation of the 
+manufacturing sector.
+Introduction
+Industrial / business outlook surveys are 
+extensively employed, particularly by central banks, 
+to capture snapshots of sentiment on current activity 
+conditions in a forward-looking manner so as to 
+follow and analyse economic developments on a more 
+frequent basis with information that has the advantage 
+of being instantaneously accessible, never being 
+subjected to revision (Hansson and Jansson, 2003; 
+Kevin and Rosewall, 2015; Amstad and Etter, 2000). The 
+Reserve Bank of India (RBI) has been an early mover 
+among emerging market economies (EMEs) in this 
+genre of surveys. Its flagship industrial outlook survey 
+(IOS) goes back to 1998 and the continuum of survey 
+rounds conducted since then yields a rich information 
+set of 81 data conglomerations of quarterly frequency 
+over 20 years. Aggregating the responses received, 
+the IOS produces a business assessment index (BAI), 
+which encapsulates current conditions and a business 
+* Jugnu Ansari and S. Majumdar, Division of Enterprise Surveys, 
+Department of Statistics and Information Management (DSIM). The views 
+expressed in the article are those of the authors only. The latest round of 
+the survey data was released on October 5, 2018 on the RBI’s website at 
+https://rbi.org.in/scripts/PublicationsView.aspx?Id=18713. The previous 
+article was published in the June 2017 issue of the RBI Bulletin and can be 
+accessed at https://rbi.org.in/Scripts/BS_ViewBulletin.aspx?Id=16933.
+Business Sentiments and 
+Expectations in 2017-18*
+32
+developed economies, including, the USA, the UK, 
+Japan and other member countries of the Organisation 
+for Economic Cooperation and Development (OECD), 
+transition economies of Central / Eastern Europe and 
+in the countries of the Asia-Pacific region. In many 
+countries, multiple surveys to gauge the assessment 
+of underlying macroeconomic and financial conditions 
+by businesses themselves are prevalent (Table 1). 
+International agencies, such as, the OECD, the 
+European Union, the Asian Development Bank (ADB) 
+and the United Nations Economic and Social Council 
+for Asia and Pacific (ESCAP), have been working 
+towards harmonisation of these surveys in order to 
+facilitate co-ordination and cross-country comparison. 
+Indicators available from such surveys are found to 
+be useful in the construction of lead indicators for 
+business cycle analysis (Hansson and Jansson, 2003) 
+and for developing summary gauges of the short-term 
+outlook. 
+Most inflation targeting countries1
+ have 
+maximum coverage of demand and price parameters in 
+their surveys which are considered worthy of national 
+representation. The iconic manufacturing business 
+outlook survey conducted by the Philadelphia Federal 
+Reserve Bank is intended to capture manufacturing 
+conditions in the north eastern USA, but it is widely 
+regarded as reflecting a country-wide assessment2
+. 
+Apart from central banks, the national statistical 
+offices also conduct business tendency surveys. 
+In Brazil, the Survey of Manufacturing Industry 
+has several similarities with the Indian experience. It 
+is a qualitative survey conducted monthly. Its results 
+are used to identify a lead indicator about the state 
+of the economy with respect to the business outlook. 
+In Canada, a similar survey is conducted with the 
+same frequency by the regional offices of the Bank of 
+Canada. They target the senior management of select 
+firms based on their contribution in gross domestic 
+product. The balance of opinion is estimated in a 
+range between -100 and +100, again resonating with 
+the RBI’s IOS. Indonesia conducts a business tendency 
+survey which is widely intended for its sheer breadth 
+of coverage, on quarterly basis to obtain information 
+related to a wide array of business conditions, such 
+as business revenue, production capacity utilisation, 
+employment, average working hours, domestic and 
+overseas demand. The survey covers a sample of 2500 
+Table 1: Cross Country Experience of Industrial Outlook Surveys
+Business Tendency Survey 
+Parameters
+Australia Brazil Canada France Germany India Indonesia Japan New 
+Zealand
+South 
+Africa
+United 
+Kingdom
+United 
+States
+Conducted since year 1966 1995 1998 1959 1961 1998 2002 1957 1961 1986 1977 1968 
+Composite Indicator (BEI) 

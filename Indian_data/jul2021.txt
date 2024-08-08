@@ -1,0 +1,375 @@
+SPEECH
+RBI Bulletin July 2019 13
+Development of Viable Capital Markets – The Indian Experience
+1.3 The CGFS Report identified the drivers of capital 
+market development and categorised them into two 
+types:
+i. drivers which create an enabling 
+environment for financial development, and
+ii. drivers which are more capital market 
+specific.
+1.4 Drivers which create an enabling environment as 
+identified in the CGFS Report include:
+	 •	 macroeconomic stability,
+	 •	 broad respect for market autonomy,
+	 •	 fair and efficient legal and judicial systems, 
+and
+	 •	 an efficient regulatory regime that creates 
+conditions favourable for financial contracts.
+1.5 Drivers which are capital market specific as 
+identified in the CGFS Report include:
+	 •	 easy access to high-quality material 
+information,
+	 •	 diversity in the investor base,
+	 •	 efficient market ecosystem for trading and 
+robust market infrastructures,
+	 •	 openness towards international investors 
+while maintaining macro-economic stability, 
+and
+	 •	 markets for hedging and funding securities.
+1.6 The CGFS Report made six broad policy 
+recommendations:
+i. promoting greater market autonomy;
+ii. strengthening legal and judicial systems for 
+investor protection;
+iii. enhancing regulatory independence and 
+effectiveness;
+iv. increasing the depth and diversity of the 
+domestic institutional investor base;
+1. Introduction
+1.1 Capital markets play a crucial role in the economic 
+development of a country. They provide financial 
+resources required for the long-term sustainable 
+development of the economy. Development of viable 
+capital markets is therefore considered an important 
+element in the macro-financial policy toolkit, 
+including for objectives such as financial stability and 
+the transmission of monetary policy.
+1.2 The Committee on Global Financial System 
+(CGFS), which meets at the Bank for International 
+Settlements (BIS), constituted a Working Group 
+in 2018-19 to examine global trends in capital 
+market development, identify various factors (legal, 
+institutional, structural and conjunctural) that foster 
+the development of robust capital markets, and consider 
+the role of policy including prudential measures. The 
+Working Group, co-chaired by the People’s Bank of 
+China (PBOC, Dr. Li Bo) and the Reserve Bank of India 
+(RBI, Dr. Viral V. Acharya), focussed on issues primarily 
+related to the development of markets in bond and 
+equity securities1
+. While these issues are arguably 
+of greater relevance to emerging market economies, 
+they were found to be of significant interest even for 
+advanced economies.
+*Dr Viral V. Acharya, Deputy Governor, Reserve Bank of India at Indian 
+School of Business, Hyderabad on June 29, 2019. These remarks collectively
+summarise the presentations made earlier at the RBI symposium on
+Establishing Viable Capital Markets, 29 May 2019; the Institute for Indian
+Economic Studies (IIES), Tokyo, Japan, 10 June 2019; the meeting with Foreign
+Portfolio Investors, Tokyo, Japan, 11 June 2019; the National University of
+Singapore (NUS) Asian Leaders in Financial Institutions (ALFI) Programme, 
+Bengaluru, 20 June 2019, and Fireside Chat at the Indian School of Business, 
+Hyderabad, 29 June 2019.
+1The Report was delivered to the CGFS at the BIS meeting on 23 January 
+2019 and is available at https://www.bis.org/publ/cgfs62.pdf
+Development of Viable Capital
+Markets – The Indian Experience*
+Viral V. Acharya
+14
+v. opening up capital markets internationally 
+in a bi-directional manner; and
+vi. developing complementary markets for 
+derivatives, repo transactions and securities 
+lending.
+1.7 Policy initiatives in India have been largely in 
+sync with the findings and recommendations of the 
+CGFS Report. I shall discuss these and future policy 
+directions after providing a brief overview of the 
+Indian capital markets. While the scope of the CGFS 
+Report is the entire capital market, I will largely confine 
+this speech to the markets regulated by the Reserve 
+Bank, viz., interest rate markets and (to a lesser extent) 
+foreign exchange markets.
+2. Overview of the Indian capital markets
+2.1 Indian capital markets have a history of more than 
+a century. However, they remained largely inactive 
+till the 1970s. Partial liberalisation of the economy 
+and pro-capital market policies during the 1980s 
+infused some life into the markets, but it was only 
+the economic liberalisation of the 1990s that provided 
+a lasting impetus. Today, segments of India’s capital 
+markets are comparable with counterparts in many of 
+the advanced economies in terms of efficiency (price 
+discovery), tradability (low impact cost), resilience (comovement of rates across product classes and yield 
+curves), and stability. In particular, their ability to 
+withstand several periods of stress, notably the Asian 
+financial crisis in 1997-98, the global financial crisis in 
+2007-09 and the ‘taper tantrum’ episode in 2013, is a 
+sign of their increasing maturity.
+2.2 In terms of size, all the major segments of the 
+capital market, viz., Central Government securities 
+(G-Sec) market, market for State Development Loans 
+(SDL), corporate bond market and equity market – the 
+so called ‘cash markets’ – have experienced consistent 
+growth during the past few decades in terms of 
+primary issuance, market capitalisation (for equity 
+market) and trading volumes in the secondary market. 
+Equity market remains the largest segment, even as 
+G-Sec, SDL and corporate bond markets have grown 
+steadily (Chart 1).
+2.3 Growth of the Government Securities market:
+A streamlined, transparent and market-based primary 
+issuance process has underpinned the development 
+of the government securities markets, both central 
+government securities (G-Secs) and state government 
+securities (SDLs). In the primary G-Sec market, 
+issuances are made as per a half-yearly pre-announced 
+calendar. The calendar specifies the amount, tenor 
+and issuance dates. The tenor of the G-Secs goes up 
+to 40 years. G-Secs are mostly fixed-coupon bonds, 
+although instruments such as inflation-linked bonds, 
+capital-indexed bonds, floating-rate bonds and bonds 
+with embedded options are also issued. Currently, all 
+issuances are done through weekly auctions. Issuances 
+are supported by Primary Dealers (PDs) who fully 
+underwrite the issue. Auctions are conducted through 
+both competitive bidding [for all residents, Foreign 
+Portfolio Investors (FPIs) and Non-Resident Indians 
+(NRIs)], which determines the market-clearing price, 
+and non-competitive bidding (for retail investors, 
+largely), which receives the allotted securities at the 
+SPEECH
+RBI Bulletin July 2019 15
+Development of Viable Capital Markets – The Indian Experience
+market-clearing price. More than 90 per cent of the 
+issuances are done through re-opening of existing 
+securities which has contributed significantly to 
+market liquidity by spreading out ownership across 
+a large number of investors. The Reserve Bank has 
+also introduced ‘when-issued’ segment for the G-Sec 
+market since 20062
+.
+The profile of both G-Secs and SDLs in terms 
+of stock and flow characteristics is shown in Tables
+1 and 2. The weighted average coupon on G-Secs has 
+remained stable across interest rate cycles imparting 
+stability to the debt profile as the average maturity of 
+issuance (more than 10 years) is one of the longest 
+globally, helping limit the rollover risk for the central 
+government. SDL issuance has increasingly formed a 
+much greater share of issuance relative to the G-Secs, 
+rising from around 25 per cent of issuance in 2013-14 
+to around 45 per cent in 2017-18.
+2.4 Liquidity of the G-Sec Market: Liquidity in 
+the secondary market for government securities has 
+noticeably improved over the past decade (Chart 2). 
+The average daily volume in the G-Sec and SDL markets 
+has remained higher than that of corporate bond 
+and equity cash markets. The liquidity in G-Secs is, 
+however, mainly concentrated in a few benchmark 
+securities, particularly the 10-year benchmark, and 
+SDLs are relatively less liquid than the G-Secs, yielding 
+typically 50-75 basis points more than the G-Secs in 
+terms of yield at the 10-year tenor. The average bidTable 2: Issuance profile of Government Borrowings 
+(in US $ billion)
+Year Central Government 
+(G-Secs)
+State Governments 
+(SDLs)
+Gross 
+Issuance
+Outstanding 
+Stock 
+(end-March)
+Gross 
+Issuance
+Outstanding 
+Stock
+(end-March)
+2013-14 90 609 31 174
+2014-15 91 648 36 199
+2015-16 85 674 41 243
+2016-17 80 754 56 321
+2017-18 91 795 63 346
+2018-19 83 837 70 404
+Source: Database of Indian Economy (DBIE), Reserve Bank of India
+Table 1: Characteristics of Central Government 
+Borrowings (G-Secs)
+Year Issued during the Year Outstanding stock
+Weighted 
+Average 
+Yield 
+(per cent )
+Weighted 
+Average 
+Maturity 
+(years)
+Weighted 
+Average 
+Coupon 
+(per cent )
+Weighted 
+Average 
+Maturity 
+(years)
+2013-14 8.4 14.2 8.0 10.0
+2014-15 8.5 14.7 8.1 10.2
+2015-16 7.9 16.0 8.1 10.5
+2016-17 7.2 14.8 8.0 10.7
+2017-18 7.0 15.0 8.0 10.7
+2018-19 7.8 14.7 7.8 10.4
+Source: Annual Report of Reserve Bank of India (2017-18) and Database of 
+Indian Economy (DBIE), Reserve Bank of India.
+2‘When Issued’, a short form of ‹when, as and if issued ‹, indicates a conditional transaction in a security authorized for issuance but not as yet actually 
+issued. All ‘when issued’ transactions are on an ‘if’ basis, to be settled if and when the actual security is issued. Such trading facilitates the distribution 
+process for Government securities by stretching the actual distribution period for each issue and allowing the market more time to absorb large issues 
+without disruption.
+16
+ask spread for liquid securities in the G-Sec market has 
+remained less than a basis point during the last few 
+years (Chart 3). Strikingly, bid-ask spread as well as 
+the price impact of trade for the 10 year Indian G-Sec 
+benchmark are comparable to or lower than those for 
+most of the advanced economies of the world including 
+the US, the UK, France and Germany (Chart 4).
+There are several proximate drivers of this 
+liquidity of the Indian G-Sec market:
+i. Regular issuance of the 10-year benchmark 
+has concentrated trading interest in this 
+segment of the yield curve. Efforts are 
+now being made to regularise issuance of 
+benchmark securities at shorter maturities 
+(2 and 5 years).
+ii. Secondary market transactions are 
+predominantly (around 80 per cent) 
+conducted in an anonymous electronic 
+order matching system (NDS-OM) which is 
+unique in the world for debt trading. While 
+the remaining transactions happen over-thecounter (OTC) outside the NDS-OM3
+, they 
+are nevertheless reported to the NDS-OM 
+platform.
+iii. Near real-time dissemination of trade 
+information publicly accessible on the 
+website of the Clearing Corporation of India 
+Limited (CCIL) ensures price transparency.
+iv. Settlement is guaranteed by the CCIL 
+and takes place through Delivery versus 
+3 Negotiated Dealing System-Order Matching.
+SPEECH
+RBI Bulletin July 2019 17
+Development of Viable Capital Markets – The Indian Experience
+Payment (DvP) mechanism on T+1 basis. 
+Guaranteed settlement implies there is no 
+risk to investors from each other of delivery 
+failures.
+(v) Finally, enabling of short-selling facilitates a 
+two-way interest adding to activity and price 
+discovery in the market.
+2.5 Growth and liquidity of the corporate bond 
+market: The corporate bond market has grown over 
+the years to a size of US$ 447 billion of outstanding 
+stock as at the end of March 2019, clocking an 
+annualised growth rate of 13.5 per cent during the 
+last four years. Issuances are predominantly through 
+private placement and dominated by high credit 
+issuers. In 2018-19, 79 per cent of the issuances were by 
+entities rated ‘A’ or higher. Secondary market trading 
+has also picked up in the recent past, with trading 
+volumes rising from US$ 170 billion in financial year 
+(FY) 2014-15 to US$ 267 billion in 2018-19. Trading 
+is entirely OTC with trades settled bilaterally and 
+reported to stock exchanges.
+2.6 Recent developments in the corporate bond 
+market: Consistent investment interest by domestic 
+institutions like mutual funds, pension funds and 
+insurance funds as well as foreign portfolio investors 
+(FPIs) has helped in developing the corporate bond 
+market. Tri-party repo (‘sale and repurchase’) in 
+corporate bonds has been introduced by the exchanges 
+recently with a view to encourage trading interest. 
+Implementation of the Insolvency and Bankruptcy 
+Code (IBC) starting December 2016 is expected to go 
+a long way in improving participation in the corporate 
+bond market by strengthening the protection of 
+creditor rights, in a market presently characterised 
+by one of the lowest recovery rates (25 per cent) in 
+the world (Chart 5). With greater confidence in timebound and efficient resolutions under the IBC, foreign 
+investors are likely to explore investment in subinvestment grade and distressed corporate assets.
+2.7 Investor Base: There has been a conscious and 
+continuous effort by the Reserve Bank to expand the 
+investor base and thereby liquidity of the markets it 
+regulates, while preserving financial stability. The 
+investor base for G-Secs, for instance, has expanded 
+over the past decade in terms of an increase in the 
+share of holdings by insurance companies and 
+corporates and a corresponding decrease in the share 
+18
+of holding by commercial banks (Chart 6). In parallel, 
+calibrated access for global investors through the FPI 
+route is helping broaden the investor base, while also 
+bringing in diversity of trading views and strategies.
+2.8 Funding and Derivatives Markets: A necessary 
+condition for the development of capital markets 
+is the existence of funding and securities lending 
+markets as well as derivative markets for risk transfer. 
+Repo funding in Indian G-Secs is fairly deep with 
+average daily volume of about US$ 20 billion (Chart 7). 
+In case of interest rate derivatives, there is reasonable 
+liquidity in Interest Rate Futures (IRF) and Overnight 
+4 Triparty repo in G-Secs went live on November 05, 2018. In tri-party repo, a third party acts as a central counterparty between the two originating parties 
+of a repo transaction. Currently, the Clearing Corporation of India Ltd. (CCIL) acts as the ‘triparty agent’ for the G-Secs, while the Bombay Stock Exchange 
+(BSE) and the National Stock Exchange (NSE) operate as triparty agents for corporate bonds.
+SPEECH
+RBI Bulletin July 2019 19
+Development of Viable Capital Markets – The Indian Experience
+Indexed Swaps (OIS) markets5
+. Much of the recent 
+increase in activity can be attributed to the Reserve 
+Bank allowing non-residents to participate in interest 
+rate derivatives markets for both hedging and trading 
+purposes.
+3. Policy initiatives in India
+What has enabled the growth of Indian capital 
+markets to reach this stage? To answer this, I will now 
+discuss the policy measures taken in India vis-à-vis the 
+findings and recommendations of the CGFS Report.
+3.1 Enabling environment
+3.1.1 Macroeconomic Stability
+India’s GDP growth has been one of the highest 
+among large economies during the last decade and 
+half (Chart 8). Double digit inflation of few years 
+prior to the ‘taper tantrum’ episode has been tamed, 
+facilitated by a shift by the Reserve Bank in 2016 to 
+flexible inflation targeting with a headline target of 
+4 per cent (+/- 2 per cent) for the Monetary Policy 
+Committee (MPC). High levels of inflation make 
+holdings of financial assets economically unattractive 
+relative to non-financial assets such as housing 
+and gold. The important reform of flexible inflation 
+targeting, helped by low oil prices and food supply 
+management, has kept the headline inflation under 
+control during the last 5 years, relative to the MPC’s 
+mandated target (Chart 9). This way, two preconditions 
+of macroeconomic stability – stable growth and low 
+inflation – necessary for financialisation of savings 
+and capital market development are now in place in 
+India.
+3.1.2 Promoting market autonomy
+a. Rationalising regulatory guidelines and 
+procedures
+ In active coordination with the government 
+and other financial market regulators, the 
+Reserve Bank has undertaken a series of reforms 
+and rationalisation of existing policies. These 
+measures also seek to ensure financial stability 
+and instil confidence among stakeholders. Some 
+important examples include:
+i. Liberalising the process for innovation of 
+new products;
+ii. Moving away from a prescriptive approach 
+to a principle-based regulatory approach;
+5 An Overnight Index Swap (OIS) is an interest rate swap agreement where 
+a fixed rate is swapped against a pre-determined published index of a daily 
+overnight reference rate for an agreed period.
